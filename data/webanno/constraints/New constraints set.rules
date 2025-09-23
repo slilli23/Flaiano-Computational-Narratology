@@ -1,0 +1,8 @@
+/* Constraint rules set created by admin */
+
+import custom.SentenceLabel as SentenceLabel;
+
+SentenceLabel {
+
+Focalization = "Narrator" -> Rationales = "Judgement" | Rationales = "Knowledge" | Rationales = "Inexicales";
+}

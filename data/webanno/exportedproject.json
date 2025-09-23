@@ -1,0 +1,260 @@
+{
+  "name" : "Tempo di uccidere1",
+  "slug" : "admin-1",
+  "description" : "\nThis project has been pre-configured for sentence labeling tasks.\n\nBest import documents in a format which gives you control over the sentence boundaries, such as e.g. \n**Plain text (one sentence per line)**, **Plain text (space-separated tokens, one sentence per line)**,\nany of the CoNLL formats.\n\nYou can create an annotation on an entire sentence simply by double clicking anywhere in the sentence.\n\nTo adjust the available sentence labels, go to the **Tagset** panel in the project settings. Mind\nthat changing a tag's name does not update already created annotations, so best configure your\ntagset before starting to annotate.\n\nIt also includes a recommender which learns from your annotations and suggests labels for yet \nuntagged sentences.",
+  "mode" : "ANNOTATION",
+  "version" : 1,
+  "default-preferences" : [ ],
+  "knowledge_bases" : [ ],
+  "external_search" : [ ],
+  "curation_workflow" : {
+    "mergeStrategy" : "completeAgreementNonStacked",
+    "mergeStrategyTraits" : null
+  },
+  "project_users" : [ ],
+  "recommenders" : [ ],
+  "learning_records" : [ ],
+  "gazeteers" : [ ],
+  "workload_manager" : {
+    "traits" : null,
+    "type" : "matrix"
+  },
+  "user-preferences" : [ {
+    "name" : "annotation/layers",
+    "traits" : "{\"layerColoringStrategy\":{\"6\":\"GRAY\",\"7\":\"STATIC_PASTELLE\"},\"readonlyLayerColoringStrategy\":\"LEGACY\",\"hiddenLayers\":[],\"hiddenFeatures\":[],\"hiddenFeatureValues\":{}}",
+    "user" : "admin"
+  }, {
+    "name" : "annotation/layout",
+    "traits" : "{\"sidebarSizeLeft\":20,\"sidebarSizeRight\":20}",
+    "user" : "admin"
+  }, {
+    "name" : "client-side/annotation/annotation-browser-sidebar",
+    "traits" : "{\"mode\":\"by-label\",\"sortByScore\":true,\"recommendationsFirst\":false}",
+    "user" : "admin"
+  }, {
+    "name" : "annotation/layer-anchoring-mode",
+    "traits" : "{\"anchoringModes\":{\"7\":\"TOKENS\"}}",
+    "user" : "admin"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"annotationBrowserSidebarFactory\",\"expanded\":true}",
+    "user" : "admin"
+  } ],
+  "source_documents" : [ {
+    "name" : "Tempo di uccidere.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1754581055092,
+    "updated" : 1754581303883
+  } ],
+  "annotation_documents" : [ {
+    "name" : "Tempo di uccidere.txt",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1758547498988,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1754581302917,
+    "updated" : 1758547498990
+  } ],
+  "project_permissions" : [ {
+    "level" : "ADMIN",
+    "user" : "admin"
+  }, {
+    "level" : "CURATOR",
+    "user" : "admin"
+  }, {
+    "level" : "USER",
+    "user" : "admin"
+  } ],
+  "tag_sets" : [ {
+    "name" : "Description",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "Indigenous",
+      "tag_description" : null
+    }, {
+      "tag_name" : "Landscape",
+      "tag_description" : null
+    }, {
+      "tag_name" : "Soldier",
+      "tag_description" : null
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Focalization",
+    "description" : "Sentence labels",
+    "language" : "en",
+    "tags" : [ {
+      "tag_name" : "Conqueror",
+      "tag_description" : "Focalization through the autodiegetic narrator to the Italian soldiers."
+    }, {
+      "tag_name" : "Description",
+      "tag_description" : "Descriptions of the landscape."
+    }, {
+      "tag_name" : "Indigenous",
+      "tag_description" : "Focalization through the autodiegetic narrator to the indigenous people."
+    }, {
+      "tag_name" : "Metadata",
+      "tag_description" : null
+    }, {
+      "tag_name" : "Narrator",
+      "tag_description" : "Intervention of the extradiegetic narrator."
+    }, {
+      "tag_name" : "Unclear",
+      "tag_description" : null
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Rationales",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "Indexicales",
+      "tag_description" : null
+    }, {
+      "tag_name" : "Judgement",
+      "tag_description" : null
+    }, {
+      "tag_name" : "Knowledge",
+      "tag_description" : null
+    } ],
+    "create_tag" : false
+  } ],
+  "layers" : [ {
+    "name" : "custom.SentenceLabel",
+    "features" : [ {
+      "name" : "Description",
+      "tag_set" : {
+        "name" : "Description",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Description",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : true,
+      "description" : null,
+      "project_name" : "Tempo di uccidere1",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"editorType\":\"AUTO\",\"collapsedRows\":1,\"expandedRows\":1}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Focalization",
+      "tag_set" : {
+        "name" : "Focalization",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Focalization",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "Tempo di uccidere1",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"editorType\":\"RADIOGROUP\",\"collapsedRows\":1,\"expandedRows\":1}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Rationales",
+      "tag_set" : {
+        "name" : "Rationales",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Rationales",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : true,
+      "description" : null,
+      "project_name" : "Tempo di uccidere1",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"editorType\":\"AUTO\",\"collapsedRows\":1,\"expandedRows\":1}",
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Sentence Label",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "Tempo di uccidere1",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[{\"color\":\"#000000\",\"pattern\":\"Agent\"},{\"color\":\"#33db4a\",\"pattern\":\"Conquerer\"},{\"color\":\"#ecff69\",\"pattern\":\"Indigenous\"},{\"color\":\"#0822ff\",\"pattern\":\"Narrator*\"},{\"color\":\"#f01414\",\"pattern\":\"Description*\"}]}}"
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "features" : [ ],
+    "uiName" : "Token",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : true,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "CHARACTERS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : false,
+    "project_name" : "Tempo di uccidere1",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  } ],
+  "disableExport" : true,
+  "script_direction" : "LTR",
+  "created" : 1754581018484,
+  "updated" : 1754581029765,
+  "anonymous_curation" : false
+}

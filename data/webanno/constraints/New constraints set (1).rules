@@ -1,0 +1,8 @@
+/* Constraint rules set created by admin */
+
+import custom.SentenceLabel as SentenceLabel;
+
+SentenceLabel {
+
+Focalization = "Description" -> Description = "Landscape" | Description = "Soldier" | Description = "Indigenous"| Description = "Climate";
+}
