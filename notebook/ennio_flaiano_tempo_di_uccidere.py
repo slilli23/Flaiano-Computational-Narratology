@@ -75,7 +75,7 @@ def preprocess_tsv_columns(file_path):
 
     # Define categories and subcategories
     main_categories = {'Metadata', 'Narrator', 'Indigenous', 'Conqueror', 'Description'}
-    narrator_subcategories = {'Judgement', 'Indexicales', 'Knowledge'}
+    narrator_subcategories = {'Judgement', 'Indexicals', 'Knowledge'}
     description_subcategories = {'Landscape', 'Indigenous', 'Soldier'}
 
     processed_lines = []
