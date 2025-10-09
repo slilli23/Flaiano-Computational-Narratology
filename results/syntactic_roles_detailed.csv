@@ -1,0 +1,685 @@
+segment_id,category,text,subjects,objects,passive_subjects,oblique_agents,active_verbs,passive_verbs,transitive_verbs,intransitive_verbs,agent_count,patient_count,passive_count
+0,Indigenous,Gli indigeni sono piuttosto contrari alle comitive.,['indigeno'],[],[],[],[],[],[],[],1,0,0
+1,Indigenous,"Seduto a terra, un abissino mi guardava: s ’ era appoggiato ad un macigno, si sorreggeva la testa sc","['abissino', 'testa']",['me'],['s'],[],"['guardare', 'sorreggere']",['appoggiare'],[],"['guardare', 'sorreggere']",2,2,1
+2,Indigenous,"Era disteso, la mano immobile indicava il cielo.",['mano'],['cielo'],[],[],['indicare'],[],['indicare'],[],1,1,0
+3,Indigenous,"Dietro di lui, un altro guerriero, steso bocconi, la testa poggiata sugli avambracci, in una calma s",['che'],"['boccone', 'parola', 'cielo']",[],[],['indicare'],[],['indicare'],[],1,3,0
+4,Indigenous,Tra gli alberi c ’ era una donna che stava lavandosi.,['che'],[],[],[],['stare'],[],[],['stare'],1,0,0
+5,Indigenous,"Era nuda e stava lavandosi a una delle pozze, accosciata come un buon animale domestico.",[],[],[],[],[],[],[],[],0,0,0
+6,Indigenous,"La donna alzava le mani pigramente, portandosi l ’ acqua sul seno e lasciandovela cadere, sembrava p",['donna'],"['mano', 'acqua', 'la']",[],[],['alzare'],[],['alzare'],[],1,3,0
+7,Indigenous,"Forse era là da molto tempo, decisa a lavarsi senza fretta, per il piacere di sentirsi scorrere l ’ ",['tempo'],['acqua'],[],[],['scorrere'],[],[],['scorrere'],1,1,0
+8,Indigenous,Non si accorgeva della mia presenza e restai a guardarla,[],['la'],[],[],[],[],[],[],0,1,0
+9,Indigenous,"Alzava le mani e lasciava cadere l ’ acqua, ripetendo il gesto con una melanconica monotonia.",[],"['mano', 'acqua', 'gesto']",[],[],[],[],[],[],0,3,0
+10,Indigenous,Era il suo modo di divertirsi e forse di volersi bene.,[],[],[],[],[],[],[],[],0,0,0
+11,Indigenous,"Il suo modo di lavarsi era differente: si strofinava come una massaia, quasi che il corpo non fosse ","['modo', 'corpo']",[],[],[],[],[],[],[],2,0,0
+12,Indigenous,Era di pelle molto chiara,[],[],[],[],[],[],[],[],0,0,0
+13,Indigenous,Per lavarsi la donna aveva raccolto i capelli in una specie di turbante bianco.,[],"['donna', 'capello']",[],[],[],[],[],[],0,2,0
+14,Indigenous,"Quando si levò in piedi e prese a lavarsi il ventre e le gambe, mi accorsi che era molto giovane, si",['che'],['ventre'],[],[],['attribuire'],[],[],['attribuire'],1,1,0
+15,Indigenous,"Vedevo la sua pelle chiara e splendida, animata da un sangue denso, “ un sangue avvezzo alla malinco",[],['pelle'],[],['sangue'],[],[],[],[],0,1,0
+16,Indigenous,Forse lei non ne sapeva niente della sua bellezza,['lei'],['niente'],[],[],['sapere'],[],['sapere'],[],1,1,0
+17,Indigenous,"E nessun uomo aveva ancora lottato per lei, questi uomini evitano la gelosia e danno alle cose il lo","['uomo', 'uomo']","['gelosia', 'valore']",[],[],"['lottare', 'evitare']",[],['evitare'],['lottare'],2,2,0
+18,Indigenous,"Costretti a vivere in una natura abbastanza drammatica, il loro desiderio non si eccita nel dramma.",['desiderio'],[],[],[],['eccitare'],[],[],['eccitare'],1,0,0
+19,Indigenous,"Quando mi scoprì tra le piante seguitò a lavarsi con calma, senza curarsi di me e forse non curandos",[],[],[],[],[],[],[],[],0,0,0
+20,Indigenous,Guardava l ’ acqua scendere sulla pelle e questo le bastava.,['questo'],['acqua'],[],[],['bastare'],[],[],['bastare'],1,1,0
+21,Indigenous,"I suoi pensieri, se ne aveva, si muovevano pigramente e non riguardavano la mia persona.",['pensiero'],['persona'],[],[],['muovere'],[],[],['muovere'],1,1,0
+22,Indigenous,"La donna non supponeva che in quegli istanti la valle mi stava apparendo estremamente fittizia,","['donna', 'valle']",[],[],[],"['supporre', 'apparire']",[],[],"['supporre', 'apparire']",2,0,0
+23,Indigenous,Non supponeva davvero che la desiderassi; oppure non si muoveva appunto perché rispettassi la sua ca,[],"['la', 'calma']",[],[],[],[],[],[],0,2,0
+24,Indigenous,"Una donna che fugge attira l ’ inseguitore, anzi lo crea.","['donna', 'che']","['inseguitore', 'lo']",[],[],"['attirare', 'fuggire']",[],['attirare'],['fuggire'],2,2,0
+25,Indigenous,"Istintivamente lei doveva pensare questo e perciò stava ferma, aspettando di vedermi proseguire.",['lei'],"['questo', 'mi']",[],[],['pensare'],[],['pensare'],[],1,2,0
+26,Indigenous,O pensava che potevo dirglielo chiaramente.,[],[],[],[],[],[],[],[],0,0,0
+27,Indigenous,"Ero un “ signore ”, potevo anche esprimere la mia volontà.",[],['volontà'],[],[],[],[],[],[],0,1,0
+28,Indigenous,Se anzi mi fossi preso il fastidio di seguirla sino alla sua capanna e avessi detto: « Voglio sposar,['lei'],"['fastidio', 'la', 'la']",[],[],['seguire'],[],[],['seguire'],1,3,0
+29,Indigenous,"E lei, per tutto il tempo pattuito, mi sarebbe rimasta fedele senza sforzo.",['lei'],[],[],[],['rimanere'],[],[],['rimanere'],1,0,0
+30,Indigenous,"Tutto era positivo per lei, che prendessi a destra o a sinistra, di qua o di là.","['tutto', 'che']",[],[],[],['prendere'],[],[],['prendere'],2,0,0
+31,Indigenous,"Si alzò, non curandosi del suo corpo nudo, mi venne vicino e tese il braccio oltre la mia spalla.",[],['braccio'],[],[],[],[],[],[],0,1,0
+32,Indigenous,"Forse la mia mano aveva tremato, comunque lei era nella pozza e se le avessi chiesto di indicarmi qu","['mano', 'lei', 'fiume']",['località'],[],[],"['tremare', 'alzare']",[],[],"['tremare', 'alzare']",3,1,0
+33,Indigenous,"Si agitava, adesso e non sapeva decidersi a chiedermelo.",[],['lo'],[],[],[],[],[],[],0,1,0
+34,Indigenous,"Glielo gettai (ne avevo un altro), e lei si insaponò daccapo, ridendo e annusando il sapone; e anche","['glielo', 'lei', 'che']","['altro', 'sapone']",[],[],"['gettare', 'insaponare', 'appartenere']",[],[],"['gettare', 'insaponare', 'appartenere']",3,2,0
+35,Indigenous,Cominciava a riconoscermi dei diritti.,[],[],[],[],[],[],[],[],0,0,0
+36,Indigenous,"Forse perché l ’ uomo, quaggiù, considera le nostre macchine come enti soprannaturali che funzionano","['uomo', 'che']","['macchina', 'metafisica', 'bomba']",[],[],"['considerare', 'funzionare']",[],['considerare'],['funzionare'],2,3,0
+37,Indigenous,"Ma il fiasco, il sapone, oh, queste cose sono fatte dagli uomini, Dio non c ’ entra, fatte dai “ sig",['Dio'],['superiorità'],"['fiasco', 'cosa']","['uomo', 'signore']",['entrare'],"['fare', 'fare']",[],['entrare'],1,3,2
+38,Indigenous,"Mi chiesi come si poteva simulare a tal punto l ’ innocenza e pensai daccapo che era un miraggio, un",[],['innocenza'],[],[],[],[],[],[],0,1,0
+39,Indigenous,"La realtà era diversa, la donna doveva già conoscere le frettolose esigenze dei soldati, o degli ope","['realtà', 'donna']",['esigenza'],[],[],['conoscere'],[],['conoscere'],[],2,1,0
+40,Indigenous,"Lei mi sorrise riconoscente, perché le lasciavo quell ’ incomparabile sapone.",['lei'],['sapone'],[],[],['sorridere'],[],[],['sorridere'],1,1,0
+41,Indigenous,"Lei forse conosceva tutti i segreti che io avevo rifiutato senza nemmeno approfondire, come una mise",['io'],"['segreto', 'che']",[],[],['rifiutare'],[],['rifiutare'],[],1,2,0
+42,Indigenous,"La rimisi a sedere bruscamente, la stessa febbre di prima m ’ aveva ripreso; e lei mi respingeva con","['rimettere', 'febbre', 'lei', 'desiderio']","['lo', 'questione']",[],[],"['riprendere', 'riprendere', 'respingere', 'offendere']",[],['offendere'],"['riprendere', 'respingere']",4,2,0
+43,Indigenous,"Respingeva le mie mani perché così Eva aveva respinto le mani di Adamo, in una boscaglia simile a qu",['Eva'],"['mano', 'mano']",[],[],['respingere'],[],['respingere'],[],1,2,0
+44,Indigenous,"O forse per aumentare il valore dell ’ impresa, perché il respingere è una fase del gioco, o perché ",['respingere'],"['valore', 'paura']",[],[],[],[],[],[],1,2,0
+45,Indigenous,"Non era certo la paura di essere violata, ma quella più profonda della schiava che cede al padrone.",['che'],[],[],[],['cedere'],[],[],['cedere'],1,0,0
+46,Indigenous,Quel sapone dell ’ esercito … Non era soltanto timore che non la compensassi ?,['sapone'],['la'],[],[],[],[],[],[],1,1,0
+47,Indigenous,"L ’ odio per i “ signori ” che avevano distrutto la sua capanna, ucciso il suo uomo ?",['che'],"['capanna', 'uomo']",[],[],['distruggere'],[],['distruggere'],[],1,2,0
+48,Indigenous,Il timore di essere sorpresa là da qualche abitante del villaggio che mi aveva indicato ?,['che'],[],[],['abitante'],['indicare'],[],[],['indicare'],1,0,0
+49,Indigenous,"Si difendeva cortesemente, senza crederci e, oso dire, pensando ad altro",[],[],[],[],[],[],[],[],0,0,0
+50,Indigenous,E mi accorgevo che nella sua indolente difesa c ’ era anche la speranza di soccombere.,[],[],[],[],[],[],[],[],0,0,0
+51,Indigenous,"Erano tristi animali, invecchiati in una terra senza uscita, erano grandi camminatori, grandi conosc",['animale'],[],[],[],[],[],[],[],1,0,0
+52,Indigenous,"Nessuno di loro si faceva la barba ascoltando le prime notizie, né le loro colazioni erano rese più ",['nessuno'],"['barba', 'notizia']",['colazione'],['foglio'],['fare'],['rendere'],['fare'],[],1,3,1
+53,Indigenous,Potevano vivere conoscendo soltanto cento parole.,[],['parola'],[],[],[],[],[],[],0,1,0
+54,Indigenous,"Da una parte il Bello e il Buono, dall ’ altra il Brutto e il Cattivo.",[],[],[],[],[],[],[],[],0,0,0
+55,Indigenous,Avevano dimenticato tutto delle loro epoche splendide e soltanto una fede superstiziosa dava alle lo,['fede'],"['tutto', 'forza']",[],[],['dare'],[],['dare'],[],1,2,0
+56,Indigenous,Nei miei occhi c ’ erano duemila anni di più e lei lo sentiva.,['lei'],['lo'],[],[],['sentire'],[],['sentire'],[],1,1,0
+57,Indigenous,"Erano forse come animali preistorici capitati in un deposito, di carri armati che s ’ accorgessero d","['che', 's']","['tempo', 'malinconia']",[],[],"['accorrere', 'accorrere']",[],[],['accorrere'],2,2,0
+58,Indigenous,"Mi chiedevo perché giacesse senza aprire gli occhi e, quando li apriva, evitasse di guardarmi; e int",['mano'],"['occhio', 'li', 'mi', 'pelle', 'la', 'errore']",[],[],['cercare'],[],['cercare'],[],1,6,0
+59,Indigenous,"La guardai con fastidio e del resto lei sembrava immersa nei suoi pensieri, che non riguardavano, da","['lei', 'che']","['la', 'persona']",[],[],"['sembrare', 'riguardare']",[],['riguardare'],['sembrare'],2,2,0
+60,Indigenous,"La donna mi guardava, seguendo i miei gesti come se assistesse a un giuoco di prestigio",['donna'],['gesto'],[],[],['guardare'],[],[],['guardare'],1,1,0
+61,Indigenous,"Non volle accettare la carne, mangiò una pesca, ma era qualcosa di nuovo che la lasciava incerta.",['che'],"['carne', 'pesca', 'la']",[],[],['lasciare'],[],['lasciare'],[],1,3,0
+62,Indigenous,Forse avrebbe preferito uno di quegli spaventosi stufati abissini di carne seccata al sole.,[],['uno'],[],[],[],[],[],[],0,1,0
+63,Indigenous,"Sapeva che la cosa non sarebbe durata e non era sorpresa per la mia improvvisa decisione, nemmeno la",['cosa'],['la'],[],[],['durare'],[],[],['durare'],1,1,0
+64,Indigenous,"Forse tutto le era indifferente, benché le sue mani avessero cercato con tanta furia la mia pelle.","['tutto', 'mano']",['pelle'],[],[],['cercare'],[],['cercare'],[],2,1,0
+65,Indigenous,La sua delusione apparve soltanto quando la salutai e mi ricordò che per la seconda volta quel giorn,['delusione'],"['la', 'persona', 'senso']",[],[],['apparire'],[],[],['apparire'],1,3,0
+66,Indigenous,"Ancora le guardò, tentata di prenderle, e ancora me le restituì.",[],"['le', 'le', 'le']",[],[],[],[],[],[],0,3,0
+67,Indigenous,"Era troppo, l ’ offerta stava superando ogni onesta capacità di rifiuto e la sua deplorazione per la","['offerta', 'deplorazione']",['capacità'],[],[],"['superare', 'cadere']",[],['superare'],['cadere'],2,1,0
+68,Indigenous,"Glielo affibbiai al polso e il petto le ansava in una gioia profonda, in una trepidazione vivissima.","['glielo', 'petto']",['le'],[],[],"['affibbiare', 'ansare']",[],['ansare'],['affibbiare'],2,1,0
+69,Indigenous,"Quel giorno, anzi in quelle ore, stava varcando la soglia della giovinezza, lasciandosi alle spalle ",['gesto'],"['soglia', 'adolescenza', 'uno']",[],[],['prendere'],[],['prendere'],[],1,3,0
+70,Indigenous,"A volte indolente, poi di colpo ancora vivace, piena di curiosità da soddisfare.",[],[],[],[],[],[],[],[],0,0,0
+71,Indigenous,"E, dopo un istante, lontanissima, lontana i suoi duemila anni e stupefatta di trovarsi viva accanto ",['anno'],[],[],[],[],[],[],[],1,0,0
+72,Indigenous,La donna nemmeno per un attimo aveva creduto alla possibilità ch ’ io la compensassi in quel modo.,"['donna', 'io']",['la'],[],[],"['credere', 'compenire']",[],['compenire'],['credere'],2,1,0
+73,Indigenous,"Aveva anzi creduto,",[],[],[],[],[],[],[],[],0,0,0
+74,Indigenous,che quegli oggetti fossero una caparra per rassicurarla che non me ne sarei andato.,['oggetto'],['la'],[],[],[],[],[],[],1,1,0
+75,Indigenous,"Non che la donna avesse assunto importanza ai miei occhi, ma cominciavo a temere che nascondesse un ",['donna'],"['importanza', 'disegno', 'lo']",[],[],['assumere'],[],['assumere'],[],1,3,0
+76,Indigenous,"Così nobile nel manto romano, ma a piedi nudi.",[],[],[],[],[],[],[],[],0,0,0
+77,Indigenous,Non dubitò nemmeno ch ’ io mi sedessi accanto a lei.,['io'],[],[],[],['sedere'],[],[],['sedere'],1,0,0
+78,Indigenous,Era tacitamente convenuto che avrei onorato la sua offerta,[],['offerta'],[],[],[],[],[],[],0,1,0
+79,Indigenous,ella teneva le mani sul grembo: proprio come certe parenti guardano soddisfatte il piccolo che non r,"['parente', 'che']","['la', 'mano', 'piccolo', 'merenda']",[],[],"['guardare', 'rifiutare']",[],"['guardare', 'rifiutare']",[],2,4,0
+80,Indigenous,Mi guardava sempre coi suoi occhi socchiusi e fu allora che mi accorsi che aveva le pupille molto ch,[],"['occhio', 'pupilla']",[],[],[],[],[],[],0,2,0
+81,Indigenous,Da sotto il turbante le spuntavano ciocche di capelli: non aveva dunque i capelli acconciati a trecc,['ciocca'],['capello'],[],[],['spuntare'],[],[],['spuntare'],1,1,0
+82,Indigenous,"Mi respinse la mano bruscamente, si tolse lei il turbante, appena il tempo di farmi constatare che i","['lei', 'turbante', 'tempo', 'capello']",['mano'],[],[],"['togliere', 'togliere', 'togliere']",[],[],['togliere'],4,1,0
+83,Indigenous,Si divertiva a vedermi disegnare così rapidamente e appena accennavo un nuovo disegno lei interveniv,['lei'],"['disegno', 'fatica', 'lo', 'nome', 'che']",[],[],['intervenire'],[],[],['intervenire'],1,5,0
+84,Indigenous,"E, come il giuoco proseguiva, la sentivo accostarsi a me, sentivo il suo corpo tiepido e pesante app","['giuoco', 'che', 'cosa']","['la', 'corpo', 'figura']",[],[],"['proseguire', 'tracciare', 'chiamare']",[],[],"['proseguire', 'tracciare', 'chiamare']",3,3,0
+85,Indigenous,Voleva farmi sapere che era cristiana,[],[],[],[],[],[],[],[],0,0,0
+86,Indigenous,"Irritato, la presi per mano, le feci intendere a gesti che doveva accompagnarmi, almeno sino al punt","['che', 'ipotesi']","['la', 'strada', 'la', 'notte', 'le']",[],[],"['accompagnare', 'apparire']",[],['apparire'],['accompagnare'],2,5,0
+87,Indigenous,Che dunque la donna tendesse a portarmi proprio nella tana di qualche inappagato guerriero ?,"['che', 'donna']",[],[],[],"['tendere', 'tendere']",[],[],['tendere'],2,0,0
+88,Indigenous,"voleva accendere un fuoco, forse per rassicurarmi, oppure perché le donne hanno il genio dell ’ inti",['donna'],"['fuoco', 'mi', 'genio']",[],[],['avere'],[],['avere'],[],1,3,0
+89,Indigenous,Teneva un braccio sul ventre e la pochissima luce della notte si concentrava sull ’ argento dell ’ o,"['luce', 'che']","['braccio', 'argento', 'le']",[],[],"['concentrare', 'affibbiare']",[],"['concentrare', 'affibbiare']",[],2,3,0
+90,Indigenous,"Anche se avesse saputo leggerci, quale tristezza il giorno non lontano che il meraviglioso tic-tac s","['tristezza', 'tic-tac']",[],[],[],['fermare'],[],[],['fermare'],2,0,0
+91,Indigenous,La sua bocca era appena socchiusa per il respiro e gli occhi riposavano come due gatti discreti; e o,"['bocca', 'occhio', 'che']","['perfezione', 'occhio']",[],[],"['socchiudere', 'riposare', 'fare']",[],[],"['socchiudere', 'riposare', 'fare']",3,2,0
+92,Indigenous,"Be ’, lasciamola dormire, povera principessa senza altri pensieri che non siano quelli di procurarsi",['che'],"['principessa', 'pane']",[],[],[],[],[],[],1,2,0
+93,Indigenous,Ma un indigeno non avrebbe affrontato la boscaglia senza nemmeno un tizzone acceso che gli servisse ,"['indigeno', 'che']",['boscaglia'],[],[],"['affrontare', 'servire']",[],['affrontare'],['servire'],2,1,0
+94,Indigenous,"Forse avrebbe fraintese le mie intenzioni, e si sarebbe di nuovo offerta, prima ancora che riuscissi",[],"['intenzione', 'le']",[],[],[],[],[],[],0,2,0
+95,Indigenous,"E anche se fossi riuscito a spiegarle che là c ’ era un ’ ombra, avrebbe riso.",['c'],"['le', 'riso']",[],[],[],[],[],[],1,2,0
+96,Indigenous,« Che pauroso signore mi è capitato.,['signore'],[],[],[],['capitare'],[],[],['capitare'],1,0,0
+97,Indigenous,"Ci sono ombre dappertutto, ma le ombre non fanno male. »","['ombra', 'ombra']",[],[],[],"['essere', 'fare']",[],[],"['essere', 'fare']",2,0,0
+98,Indigenous,"Ella non dava all ’ esistenza il valore che le davo io, per lei tutto si sarebbe risolto nell ’ obbe","['Ella', 'che', 'io', 'tutto']","['valore', 'le', 'mi', 'la']",[],[],"['dare', 'dare', 'dare', 'risolvere']",[],"['dare', 'dare']",['risolvere'],4,4,0
+99,Indigenous,"Non ero stato io, questo pensava.",['questo'],[],[],[],['pensare'],[],[],['pensare'],1,0,0
+100,Indigenous,"Qualcuno aveva sparato ma non io, non era possibile che fossi stato io.",['qualcuno'],[],[],[],['sparare'],[],[],['sparare'],1,0,0
+101,Indigenous,Un sudore freddo le copriva il viso.,['sudore'],['viso'],[],[],['coprire'],[],['coprire'],[],1,1,0
+102,Indigenous,"La donna aveva seguito senza gemere il mio intervento, forse una grande speranza la stava confortand","['donna', 'speranza']","['intervento', 'la']",[],[],"['seguire', 'confortare']",[],['confortare'],['seguire'],2,2,0
+103,Indigenous,"Forse aveva inteso dire di miracoli operati dai “ signori ”, di cuciture misteriose che essi sanno f","['essi', 'male']","['che', 'che']",[],['signore'],"['sapere', 'resistere']",[],"['sapere', 'resistere']",[],2,2,0
+104,Indigenous,"La donna s ’ era placata, teneva sempre la mano sul ventre e aspettava, sorretta dalla fiducia che s","['donna', 'anima']","['mano', 'che']",[],['fiducia'],"['placare', 'conoscere']",[],['conoscere'],['placare'],2,2,0
+105,Indigenous,"Certo, non l ’ avrei abbandonata.",[],['lo'],[],[],[],[],[],[],0,1,0
+106,Indigenous,"E appena l ’ alba fosse giunta e la boscaglia avesse ripreso i suoi colori e le sue forme, adesso co","['alba', 'boscaglia', 'io', 'che']","['colore', 'lo']",[],[],"['giungere', 'riprendere', 'soccorrere', 'dare']",[],"['riprendere', 'soccorrere']","['giungere', 'dare']",4,2,0
+107,Indigenous,"Poiché la sera prima m ’ ero avviato verso il ponte, più d ’ una volta, ella sapeva che fra poco ci ",['che'],"['la', 'uno']",[],[],['guarire'],[],[],['guarire'],1,2,0
+108,Indigenous,"Il suo volto non era più bello e attorno alle narici il colore s ’ incupiva, mentre la bocca era ari","['volto', 'colore', 'bocca']",[],[],[],['incupire'],[],[],['incupire'],3,0,0
+109,Indigenous,"E tra le sopracciglia, sulla fronte, due rughe profondissime cominciavano a turbare quel volto che p","['ruga', 'che', 'lei']","['volto', 'altro']",[],[],"['cominciare', 'offuscare', 'dormire']",[],['offuscare'],"['cominciare', 'dormire']",3,2,0
+110,Indigenous,"I suoi occhi soltanto restavano calmi, sempre socchiusi per effetto di quelle lunghe ciglia, leggerm",['occhio'],[],[],[],['restare'],[],[],['restare'],1,0,0
+111,Indigenous,"Non era certo la mano che m ’ aveva stretto e accarezzato per incitarmi, era una mano che chiedeva a","['che', 'che', 'io']","['mi', 'sentimento', 'pietà']",[],[],"['stringere', 'chiedere', 'dare']",[],"['chiedere', 'dare']",['stringere'],3,3,0
+112,Indigenous,Avanti veniva un prete (sapevo che era un prete perché portava un alto copricapo bianco senza falde),"['prete', 'che']",['copricapo'],[],['vecchio'],"['venire', 'tenere']",[],[],"['venire', 'tenere']",2,1,0
+113,Indigenous,silenzioso e nemmeno preoccupato di ciò che il prete gli andava dicendo a bassa voce.,['prete'],['che'],[],[],['dire'],[],['dire'],[],1,1,0
+114,Indigenous,"Seguivano due adolescenti e un bimbo, ed erano essi che parlavano allegramente.",['che'],['adolescenti'],[],[],['parlare'],[],[],['parlare'],1,1,0
+115,Indigenous,"Uno degli adolescenti suonava un lungo strumento di legno, una specie di rozzo violino capace di eme",['uno'],"['strumento', 'nota']",[],[],['suonare'],[],['suonare'],[],1,2,0
+116,Indigenous,"Il suonatore muoveva sbadatamente l ’ archetto su e giù, come se la faccenda lo annoiasse, e l ’ alt","['suonatore', 'faccenda', 'altro']","['archetto', 'lo']",[],[],"['muovere', 'annoiare', 'accennare']",[],"['muovere', 'annoiare']",['accennare'],3,2,0
+117,Indigenous,"Volteggiava qua e là, facendo ridere il bimbo coi suoi salti improvvisi e le smorfie di una finta pa",[],"['bimbo', 'salto']",[],[],[],[],[],[],0,2,0
+118,Indigenous,"Il prete andava avanti col vecchio, non curandosi di quella scapigliata compagnia; ma ogni tanto, qu","['prete', 'tre', 'che']","['col', 'bastone', 'grido', 'potere', 'gai']",[],[],"['andare', 'dimenticare', 'subire']",[],"['andare', 'subire']",['dimenticare'],3,5,0
+119,Indigenous,"Gli indigeni sedevano ai loro scanni, serviti da una grossa etiope vestita di rosa: era l ’ unica ma",['indigeno'],[],[],['etiope'],['sedere'],[],[],['sedere'],1,0,0
+120,Indigenous,"Dalle strade venivano rumori d ’ artigiani, passavano donne dirette alla cisterna con latte da petro","['rumore', 'donna', 'uomo']",[],[],[],"['venire', 'passare', 'sedere']",[],[],"['venire', 'passare', 'sedere']",3,0,0
+121,Indigenous,"L ’ uomo che veniva verso di noi era molto vecchio e camminava guardando a terra, come preso da un p","['uomo', 'che', 'che']",[],[],['pensiero'],"['venire', 'impedire']",[],[],"['venire', 'impedire']",3,0,0
+122,Indigenous,"Andava a piedi nudi, sempre più immerso in un pensiero forse insostenibile, che gli faceva a volte t","['che', 'che']","['passo', 'cosa', 'lo']",[],[],"['fare', 'circondare']",[],['circondare'],['fare'],2,3,0
+123,Indigenous,O forse era soltanto infastidito dai ciottoli nascosti tra le foglie cadute.,[],[],[],['ciottolo'],[],[],[],[],0,0,0
+124,Indigenous,"Il vecchio sedette vicino alla porta e restò a guardare la piazza, ma senza vederla perché i suoi pe","['vecchio', 'pensiero', 'etiope']","['piazza', 'la', 'coppa', 'la', 'capo', 'la', 'la']",[],[],"['sedere', 'porre']",[],['porre'],['sedere'],3,7,0
+125,Indigenous,"Una ragazza corse via a prendere due bottiglie di birra, io sedetti e l ’ altra ragazza si accostò d","['ragazzo', 'io', 'ragazzo', 'quello', 'che']","['bottiglia', 'parola', 'fonografo']",[],[],"['corsa', 'sedere', 'accostare', 'ripetere']",[],[],"['corsa', 'sedere', 'accostare', 'ripetere']",5,3,0
+126,Indigenous,"Ora le due ragazze stavano bevendo, meravigliate che rifiutassimo, e già nella stanza cominciavano a","['ragazzo', 'che']","['parente', 'bimbo', 'birra']",[],['munificenza'],"['bere', 'mandare']",[],[],"['bere', 'mandare']",2,3,0
+127,Indigenous,"Stava sempre sdraiato sul letto, quel curioso amico, senza far caso alla piccola folla deferente che","['amico', 'che']","['caso', 'fonografo']",[],[],"['sdraiare', 'ascoltare']",[],['ascoltare'],['sdraiare'],2,2,0
+128,Indigenous,"Erano donne anziane, pesanti e avvizzite, ma allegre, e ridevano a ogni parola del mio amico.",[],[],[],[],[],[],[],[],0,0,0
+129,Indigenous,"Quanto alle due ragazze, non mostravano nessuna fretta di concludere il loro mercato e sembravano di",['dimora'],"['fretta', 'mercato']",[],[],[],[],[],[],1,2,0
+130,Indigenous,"Tutta la loro fierezza era ormai concentrata in quel possesso, l ’ avevano messo sopra un trespolo e",['fierezza'],"['lo', 'disco']",[],[],['concentrare'],[],[],['concentrare'],1,2,0
+131,Indigenous,"Come gli anni le rendevano cupe, più laide.",[],['le'],[],[],[],[],[],[],0,1,0
+132,Indigenous,"Nei loro occhi non si poteva leggere nulla, se non la noia della decadenza",[],['la'],[],[],[],[],[],[],0,1,0
+133,Indigenous,Il tempo le aveva definitivamente sconfitte.,['tempo'],['le'],[],[],['sconfitta'],[],['sconfitta'],[],1,1,0
+134,Indigenous,Stavo fermo come il fidanzato davanti alle parenti che non disapprovano: aspettavano forse un mio ce,"['che', 'seno']","['cenno', 'la', 'la', 'volto']",[],[],"['disapprovare', 'urgere']",[],[],"['disapprovare', 'urgere']",2,4,0
+135,Indigenous,"Poiché il bimbo continuava, lieto di sostenere l ’ esame davanti ai suoi, che potevano così ammirarl","['bimbo', 'che', 'ragazzo']","['esame', 'lo', 'tazza']",[],['accesso'],"['continuare', 'ammirare', 'fare']",[],['ammirare'],"['continuare', 'fare']",3,3,0
+136,Indigenous,"Il vecchio restava fermo sulla soglia e il suo sguardo si soffermava su tutti, uno alla volta, come ","['vecchio', 'sguardo']",['qualcuno'],[],[],"['restare', 'soffermare']",[],[],"['restare', 'soffermare']",2,1,0
+137,Indigenous,"Il suo volto esprimeva già la certezza dell ’ insuccesso, pure gli occhi scrutavano, sostando, e li ","['volto', 'occhio', 'che']","['certezza', 'li', 'testa', 'caffè']",[],[],"['esprimere', 'scrutare', 'bere']",[],"['esprimere', 'bere']",['scrutare'],3,4,0
+138,Indigenous,"Il vecchio mi volgeva le spalle, che vedevo curve e scarne.","['vecchio', 'che']","['spalla', 'curva']",[],[],"['volgere', 'vedere']",[],"['volgere', 'vedere']",[],2,2,0
+139,Indigenous,"Passavano indigeni diretti verso la cittadina e mi salutavano fermandosi a molti passi, aspettando c",['indigeno'],['li'],[],[],['passare'],[],[],['passare'],1,1,0
+140,Indigenous,"Se ne andavano tetri e fiduciosi, forse meravigliati di vedere un ufficiale solo da quelle parti.",['tetro'],['ufficiale'],[],[],['andare'],[],[],['andare'],1,1,0
+141,Indigenous,"Allora feci un elogio delle ragazze indigene: erano semplici come colombe, dolci, disinteressate, in",[],['elogio'],[],[],[],[],[],[],0,1,0
+142,Indigenous,"Ora mi divertono, » aggiunsi « perché sanno perdere tempo, proprio come gli alberi e gli animali. »",[],['tempo'],[],[],[],[],[],[],0,1,0
+143,Indigenous,"L ’ altra ragazza fingeva di non riconoscermi, o non mi riconosceva davvero: non avevo più la barba ","['ragazzo', 'lei']","['mi', 'barba']",[],[],"['fingere', 'fingere']",[],[],"['fingere', 'fingere']",2,2,0
+144,Indigenous,"Ma la ragazza si difendeva, purtroppo senza crederci, e quella scena mi parve insopportabile.","['ragazzo', 'scena']",[],[],[],"['difendere', 'parere']",[],[],"['difendere', 'parere']",2,0,0
+145,Indigenous,"Ma la sentivo assente, immersa nella sua cupa pazienza, e i suoi pensieri non dovevano essere dissim","['pensiero', 'che']","['la', 'sonno']",[],[],['precedere'],[],['precedere'],[],2,2,0
+146,Indigenous,"La sua pelle non era molto chiara, e il suo sorriso era quello di un buon animale domestico che aspe","['pelle', 'sorriso', 'che']",[],[],[],['aspettare'],[],[],['aspettare'],3,0,0
+147,Indigenous,"Restava immobile, non immaginando che la vedessi con tanta lucidità.",[],['la'],[],[],[],[],[],[],0,1,0
+148,Indigenous,"Fui lieto trovandola nell ’ odore della donna, un odore vegetale, da albero paziente, misto a un pro",[],['nausea'],[],[],[],[],[],[],0,1,0
+149,Indigenous,"Tentai di fissare la donna negli occhi, aveva le pupille color nocciola, come del resto tutte le dam",[],"['donna', 'pupilla']",[],[],[],[],[],[],0,2,0
+150,Indigenous,"Seguitai a ridere e la donna rise anche lei, pazientemente, senza capire.",['donna'],['lei'],[],[],['rise'],[],['rise'],[],1,1,0
+151,Indigenous,"e la donna mi guardava, paziente, sorridendo, senza chiedersi la ragione del mio indugio",['donna'],['ragione'],[],[],['guardare'],[],[],['guardare'],1,1,0
+152,Indigenous,"Dovevo chiederle almeno il nome, sentivo il suo respiro tranquillo e il morbido corpo che riposava i","['che', 'c']","['nome', 'respiro', 'odore']",[],[],['riposare'],[],[],['riposare'],2,3,0
+153,Indigenous,"Avvicinandomi alle baracche messe ai lati dell ’ ingresso, nel buio intravidi un groviglio di cenci ","['loro', 'che']","['groviglio', 'eco']",[],[],['trovare'],[],['trovare'],[],2,2,0
+154,Indigenous,"Era l ’ altro adolescente, quello che s ’ attardava nelle sue danze e volteggiava qua e là, talmente","['che', 's']",[],[],[],"['attardare', 'attardare']",[],[],['attardare'],2,0,0
+155,Indigenous,Aveva constatato com ’ è facile dondolare da un albero quando si ha la pelle bruna e cercava di mett,['pelle'],['distanza'],[],[],['avere'],[],[],['avere'],1,1,0
+156,Indigenous,"Fuggiva come una bestia, senza chiedersi se eravamo tratti appunto dalla sua fuga a considerarlo col",[],['lo'],[],[],[],[],[],[],0,1,0
+157,Indigenous,"Volevano vivere in pace, e spesso avevano chiesto un segno tangibile della loro buona volontà al pri","['soldato', 'che', 's']",['segno'],[],[],"['incontrare', 'incontrare']",[],[],['incontrare'],3,1,0
+158,Indigenous,"Non era difficile incontrarne con un biglietto scaduto di qualche lotteria, era quello il loro docum",['documento'],[],['che'],[],[],['disturbare'],[],[],1,1,1
+159,Indigenous,"S ’ erano sottomessi, accettando la volontà dell ’ Eterno.",['S'],['volontà'],[],[],['sottomettere'],[],[],['sottomettere'],1,1,0
+160,Indigenous,"E altri portavano cartellini, con frasi non sempre degne di essere riferite, oppure con inviti a pre",['altro'],"['cartellino', 'portatore', 'scorciatoie']",[],[],['portare'],[],['portare'],[],1,3,0
+161,Indigenous,"Guardava verso di noi, si sentiva perduto, e ci vedeva sulla sua pista, meravigliato che non sparass",[],[],[],[],[],[],[],[],0,0,0
+162,Indigenous,"Vedevo il suo corpicino scosso dalla paura, aveva capito ch ’ era inutile proseguire.",[],['corpicino'],[],['paura'],[],[],[],[],0,1,0
+163,Indigenous,"Il bimbo portava quei pantaloni per unico indumento, gli arrivavano dal petto ai piedi e appena vide",['bimbo'],"['pantalone', 'li', 'li', 'gesto', 'li']",[],[],['portare'],[],['portare'],[],1,5,0
+164,Indigenous,"Me li restituiva, riconosceva ch ’ era roba non sua, approfittava dell ’ occasione di quell ’ incont",[],"['li', 'la']",[],[],[],[],[],[],0,2,0
+165,Indigenous,"Tendeva la mano, porgendomeli, deciso a riconoscere il mio diritto, purché lo risparmiassi.",['mano'],"['li', 'diritto', 'lo']",[],[],['tendere'],[],[],['tendere'],1,3,0
+166,Indigenous,"E seguimmo il bimbo, ch ’ era adesso sempre più stupito del nostro inseguimento.",['ch'],['bimbo'],[],[],[],[],[],[],1,1,0
+167,Indigenous,"Non ci temeva, non stimava opportuno sorriderci, farci il saluto che aveva visto fare tante volte.",['che'],['saluto'],[],[],['vedere'],[],[],['vedere'],1,1,0
+168,Indigenous,"Sarebbe restato là fino a che il lavoro non fosse compiuto, senza guardarci, e forse aspettandosi ch","['calcio', 'che', 'che']","['lo', 'corpo']",['lavoro'],[],"['mandare', 'ricoprire', 'sottrarre']",['compiere'],['mandare'],"['ricoprire', 'sottrarre']",3,3,1
+169,Indigenous,"Il suo viso non esprimeva nessun sentimento, né la sorpresa per quel saluto che valeva una sconfitta","['viso', 'che', 'persona']","['sentimento', 'sconfitta']",[],[],"['esprimere', 'valere', 'ispirare']",[],"['esprimere', 'valere']",['ispirare'],3,2,0
+170,Indigenous,"Non mi guardava più, e certo desiderava che me ne andassi.",[],[],[],[],[],[],[],[],0,0,0
+171,Indigenous,"Quel bimbo s ’ era ormai rassicurato sulla nostra presenza, il mio breve dialogo col vecchio l ’ ave",['dialogo'],"['lo', 'forza', 'pietra', 'lo']",['bimbo'],[],['rendere'],['rassicurare'],['rendere'],[],1,5,1
+172,Indigenous,"Lasciava la sua pietra vicino al vecchio e correva a un ’ altra, pieno di zelo, scegliendo le più gr",[],"['pietra', 'piccolo']",[],[],[],[],[],[],0,2,0
+173,Indigenous,Credetti di sentire nelle sue parole il rimorso di essersi allontanato proprio il giorno in cui la s,"['presenza', 'che']","['rimorso', 'bimbo', 'voce']",[],[],['fare'],[],[],['fare'],2,3,0
+174,Indigenous,Chi ci capisce niente coi soldati ?,['chi'],"['niente', 'soldato']",[],[],['capire'],[],['capire'],[],1,2,0
+175,Indigenous,Se gli avessero strappato quel pezzo di carta sotto il naso ?,[],['pezzo'],[],[],[],[],[],[],0,1,0
+176,Indigenous,Gli zaptié l ’ avrebbero fatto senza pensarci due volte.,['zaptié'],['lo'],[],[],['fare'],[],['fare'],[],1,1,0
+177,Indigenous,"Erano venuti a cavallo, per quella rapida faccenda, si trovavano di passaggio e si fa presto a incen",[],['capanna'],[],[],[],[],[],[],0,1,0
+178,Indigenous,"E d ’ altra parte, gli zaptié ricordavano ciò che gli ascari avevano fatto in Libia, sempre pagati d","['zaptié', 'ascaro', 'questo']","['ciò', 'che']",[],['padrone'],"['ricordare', 'fare']",[],"['ricordare', 'fare']",[],3,2,0
+179,Indigenous,"E Johannes mi guardava, ma senza curiosità, forse non guardava nemmeno la mia persona, ma oltre; gua","['Johannes', 'che', 's']","['persona', 'ciglio']",[],[],"['guardare', 'aprire', 'aprire']",[],[],"['guardare', 'aprire']",3,2,0
+180,Indigenous,"E io stavo lì a chiedere, e sarei guardato da quel vecchio come il comandante del plotone di esecuzi","['io', 'che', 'che', 'qualcuno']","['colpa', 'mano', 'lo']",[],['vecchio'],"['stare', 'avere', 'abbassare', 'fare']",[],"['avere', 'abbassare', 'fare']",['stare'],4,3,0
+181,Indigenous,"Johannes riprese a riempire la fossa, voleva finire il suo lavoro prima che il sole fosse troppo alt","['Johannes', 'sole']","['fossa', 'lavoro']",[],[],['riprendere'],[],[],['riprendere'],2,2,0
+182,Indigenous,"Non aveva visto uccidere i suoi, né incendiare le capanne, né sentito le grida degli uomini che ucci",['che'],"['suo', 'capanna', 'gridare']",[],[],['uccidere'],[],[],['uccidere'],1,3,0
+183,Indigenous,"Io ero suo « padre », a me si rivolgeva quando aveva dubbi sull ’ opportunità di un affare.",['io'],['dubbio'],[],[],[],[],[],[],1,1,0
+184,Indigenous,Allora sorrideva e chinava il capo perché fosse ben chiaro che era ai miei ordini e quel commercio c,[],"['capo', 'tempo']",[],[],[],[],[],[],0,2,0
+185,Indigenous,"Era andata via, come se ne vanno via le donne, a « sposarsi » con qualche ufficiale o con qualche au",['donna'],[],[],[],['andare'],[],[],['andare'],1,0,0
+186,Indigenous,"Era andata sull ’ altopiano, verso le città meravigliose, dove si dorme in magnifiche capanne e c ’ ","['altopiano', 'c', 'che']",[],[],[],"['andare', 'desiderare']",[],[],"['andare', 'desiderare']",3,0,0
+187,Indigenous,"Era felice, gli avevano acconciato una vecchia divisa e lo lavavano spesso.",[],"['divisa', 'lo']",[],[],[],[],[],[],0,2,0
+188,Indigenous,"Elias aveva frainteso il mio interesse per la vita del villaggio distrutto, aveva creduto che con qu",['Elias'],"['interesse', 'simpatia']",[],[],['fraintendere'],[],['fraintendere'],[],1,2,0
+189,Indigenous,"Si credette in dovere di contraccambiarmela nell ’ unico modo che sentiva, la fedeltà.",['che'],['la'],[],[],['sentire'],[],[],['sentire'],1,1,0
+190,Indigenous,"Hanno il commercio nel sangue, costoro, e la fedeltà l ’ intendono come una strada per arrivare alla",[],['commercio'],[],[],[],[],[],[],0,1,0
+191,Indigenous,"Sentivo che con Johannes non l ’ avrei mai spuntata, avevo il torto di iniziare sempre io, questo do",['questo'],"['lo', 'torto', 'io']",[],[],['indurlare'],[],[],['indurlare'],1,3,0
+192,Indigenous,"Sapevo che gli ascari non amano chi concede loro eccessiva confidenza, sospettando che in quella si ","['ascaro', 'chi', 'ingiustizia', 'che']",['confidenza'],[],[],"['amare', 'amare', 'nascondere', 'provare']",[],[],"['amare', 'nascondere', 'provare']",4,1,0
+193,Indigenous,"Sapevo di ascari, prima puniti e successivamente assolti, che avevano preteso di scontare la punizio",['che'],"['punizione', 'garanzia']",['premio'],[],['pretendere'],['trascurare'],[],['pretendere'],1,3,1
+194,Indigenous,"Mi accompagnò sino al torrente, come un dignitario che fa strada al suo ospite, impaziente di vederm",['che'],['strada'],[],[],['fare'],[],['fare'],[],1,1,0
+195,Indigenous,"Lei, il complice più caro e che non avrebbe mai sospettato nulla",['che'],"['nu', 'la']",[],[],['sospettare'],[],['sospettare'],[],1,2,0
+196,Indigenous,"Certo era uno scherzo, voleva dire, stavo scherzando !",[],[],[],[],[],[],[],[],0,0,0
+197,Indigenous,"Prese dunque la mia mano e se la pose sul capo, in segno di servitù, per dire che avevo ogni potere ",[],"['mano', 'la', 'potere']",[],[],[],[],[],[],0,3,0
+198,Indigenous,"Il bimbo era caduto e mi guardava, ancora sorridente, ancora credendo che lo scherzo seguitasse.","['bimbo', 'scherzo']",['mi'],[],[],"['cadere', 'seguitare']",[],[],"['cadere', 'seguitare']",2,1,0
+199,Indigenous,"Poi, vidi che le sue labbra tremavano, tutto il mondo gli stava crollando addosso, non ci capiva più","['labbro', 'mondo', 'urlo']","['la', 'lo']",[],[],"['tremare', 'crollare', 'fare']",[],['fare'],"['tremare', 'crollare']",3,2,0
+200,Indigenous,"Ritornò come se nulla fosse accaduto, soltanto tremava leggermente, per l ’ umidità che aveva assorb","['nu', 'che', 'labbro']","['la', 'sorriso']",[],[],"['accadere', 'assorbire', 'ritrovare']",[],"['accadere', 'ritrovare']",['assorbire'],3,2,0
+201,Indigenous,"Gli indicai la cassetta (dovetti spostare il ritratto di Lei), e il bimbo sedette compunto, cercando",['bimbo'],"['cassetta', 'ritratto']",[],[],['sedere'],[],[],['sedere'],1,2,0
+202,Indigenous,"Abbassò gli occhi e rispose con un gesto che voleva significare: nulla, oppure soltanto l ’ indiffer","['che', 'che', 'che']","['occhio', 'la', 'tempo']",[],[],"['significare', 'fare', 'apparire']",[],"['significare', 'fare']",['apparire'],3,3,0
+203,Indigenous,"Ancora allargò le braccia, per significare: tutti.",[],['braccio'],[],[],[],[],[],[],0,1,0
+204,Indigenous,"Ne fui sorpreso, temei persino che sotto questa fuga si celasse un disegno del bimbo, per impietosir",['disegno'],[],[],[],['celare'],[],[],['celare'],1,0,0
+205,Indigenous,"E guardavo le baracche, guardavo quegli uomini ammucchiati come bestie, immersi nella loro disperata",[],"['baracca', 'uomo']",[],[],[],[],[],[],0,2,0
+206,Indigenous,Una tremenda rassegnazione era calata sui loro volti.,['rassegnazione'],[],[],[],['calata'],[],[],['calata'],1,0,0
+207,Indigenous,"Giovani e vecchi, mescolati, incapaci di lamentarsi (soltanto la notte, lo sapevo bene, riusciva a s",['giovane'],"['lo', 'lagrima', 'riposo']",[],[],['riuscire'],[],[],['riuscire'],1,3,0
+208,Indigenous,"Si muovevano in quel breve spazio come larve scacciate da un vecchio deposito, urtandosi, lasciando ",[],"['scodella', 'passante']",[],['deposito'],[],[],[],[],0,2,0
+209,Indigenous,"Non entrammo nella chiesa, attratti dalla pace di quel cortile dove vagavano, come assorte nella med",['donna'],[],[],['pace'],['assorgere'],[],[],['assorgere'],1,0,0
+210,Indigenous,"C ’ era nei loro volti la stessa grave bellezza, ma velata da secoli di oscurità, le stesse acque pr","['bellezza', 'che']",[],[],[],['desiderare'],[],[],['desiderare'],2,0,0
+211,Indigenous,"In quello stesso istante, come per mitigare il loro rifiuto, le due ragazze porsero le mani verso di",['ragazzo'],"['rifiuto', 'mano']",[],[],['porre'],[],['porre'],[],1,2,0
+212,Indigenous,"Così stettero, serie, come bambine che porgono le mani perché si veda che sono pulite.",['che'],['mano'],[],[],['porre'],[],['porre'],[],1,1,0
+213,Indigenous,"Le avevano mostrate come se non fossero le loro mani, ma volessero soltanto accusare qualcuno.",['mano'],['qualcuno'],[],[],['essere'],[],[],['essere'],1,1,0
+214,Indigenous,"(Ma stavano nel cortile della chiesa, perché speravano, avrebbero sempre sperato.)",[],[],[],[],[],[],[],[],0,0,0
+215,Indigenous,"Eppure, eccole là, quattro mani mangiate, con qualche dito rientrato nel palmo e quelle cupe escresc",[],[],[],[],[],[],[],[],0,0,0
+216,Indigenous,"Ma sì, guardate pure, erano le nostre mani, e sarà sempre peggio, cadranno addirittura, e allora qua","['qualcuno', 'che']","['cibo', 'lo', 'cielo']",[],[],['imboccare'],[],['imboccare'],[],2,3,0
+217,Indigenous,E altra gente resterà attratta dalla nostra bellezza e subito volterà le spalle sorridendo per l ’ i,['gente'],"['spalla', 'cancello', 'sguardo']",[],['bellezza'],['restare'],[],[],['restare'],1,3,0
+218,Indigenous,"Stavano là come due macabre gitanti dimenticate dalla comitiva, con la notte che incombeva alle loro",['che'],[],[],['comitiva'],['incombere'],[],[],['incombere'],1,0,0
+219,Indigenous,I loro turbanti facevano una sola macchia grigia.,['turbante'],['macchia'],[],[],['fare'],[],['fare'],[],1,1,0
+220,Indigenous,"Soltanto una di esse, quella che avevo più guardata, mi accennò all ’ amica, fissando gli occhi nel ","['uno', 'che', 'entrambi']","['occhio', 'fastidio']",[],[],"['accennare', 'guardare', 'riprendere']",[],[],"['guardare', 'accennare', 'riprendere']",3,2,0
+221,Indigenous,"Le donne adesso ridevano sommessamente, proprio come due ragazze che s ’ animano vedendosi osservate","['donna', 'che', 's']",[],[],[],"['ridere', 'animare', 'animare']",[],[],"['ridere', 'animare']",3,0,0
+222,Indigenous,Qualcosa non era ancora morto in loro e sarebbe sopravvissuto allo sfacelo del corpo per molto tempo,['qualcosa'],[],[],[],['morire'],[],[],['morire'],1,0,0
+223,Indigenous,"Colei che io più guardavo si acconciò anzi la veste, con rapida civetteria, e ancora per un attimo v","['Colei', 'io']","['che', 'veste', 'mano']",[],[],"['acconciare', 'guardare']",[],"['guardare', 'acconciare']",[],2,3,0
+224,Indigenous,"Ricordai la lotta sostenuta da Mariam, una lotta cortese alla quale lei stessa non aveva creduto, la","['lei', 'che', 'che']","['lotta', 'ciò']",[],['Mariam'],"['credere', 'sapere', 'avere']",[],[],"['credere', 'sapere', 'avere']",3,2,0
+225,Indigenous,"Poi, quelle mani che stringevano e certo volevano dirmi l ’ orrore della sua solitudine, la tentazio","['mano', 'che']","['orrore', 'me']",[],[],"['dire', 'stringere']",[],['dire'],['stringere'],2,2,0
+226,Indigenous,"E poi, l ’ essersi rifiutata di accompagnarmi al ponte, l ’ aver voluto che dormissi nella boscaglia",[],[],[],[],[],[],[],[],0,0,0
+227,Indigenous,"Voleva essere vinta, ecco tutto, per sentirsi meno colpevole.",[],[],[],[],[],[],[],[],0,0,0
+228,Indigenous,"Salutava come sempre, sorridendo, ed ora vedevo nel suo sorriso la soddisfazione per lo scherzo perf",[],['soddisfazione'],[],[],[],[],[],[],0,1,0
+229,Indigenous,"Anche questa risposta mi parve preparata da tempo, da molto tempo.",['risposta'],[],[],[],['parere'],[],[],['parere'],1,0,0
+230,Indigenous,"C ’ era da cavargli poco, l ’ avevano mandato soltanto perché uno della congiura assistesse al trion","['C', 'uno']",['lo'],[],[],"['essere', 'assistere']",[],[],"['essere', 'assistere']",2,1,0
+231,Indigenous,"Il mercante mi guardava intimorito, volevo forse sequestrargli quella merce di frodo, comprata alla ",['mercante'],['merce'],[],[],['guardare'],[],[],['guardare'],1,1,0
+232,Indigenous,"Mi mostrò le mani, e le guardò anch ’ egli a lungo, come se le vedesse per la prima volta e vi scopr",['egli'],"['mano', 'le', 'le', 'qualcosa']",[],[],['guardare'],[],['guardare'],[],1,4,0
+233,Indigenous,"Una giovane donna aveva portato da mangiare a un vecchio e stava seduta sull ’ orlo della baracca, a",['donna'],['orlo'],[],[],['portare'],[],[],['portare'],1,1,0
+234,Indigenous,"Vedendo che la osservavo la osservò anche lei, come si osserva un monile.",['lei'],"['la', 'la']",['monile'],[],['osservare'],['osservare'],['osservare'],[],1,3,1
+235,Indigenous,Non potevano star lì tutto il santo giorno ad aspettarmi !,[],['mi'],[],[],[],[],[],[],0,1,0
+236,Indigenous,"Ma le donne non c ’ erano a quell ’ ora nel cortile, dovevano recarvisi soltanto la sera.",['donna'],[],[],[],[],[],[],[],1,0,0
+237,Indigenous,"Per le preghiere, immagino.",[],[],[],[],[],[],[],[],0,0,0
+238,Indigenous,"All ’ osteria, quando vi entrai, la grossa etiope vestita di rosa mi guardò con occhi severi.",['etiope'],[],[],[],['guardare'],[],[],['guardare'],1,0,0
+239,Indigenous,Cosa venivo a fare in quel posto ?,[],['cosa'],[],[],[],[],[],[],0,1,0
+240,Indigenous,Volevo bere birra acida in quelle coppe ?,[],['birra'],[],[],[],[],[],[],0,1,0
+241,Indigenous,"Io, un « signore » ?",[],[],[],[],[],[],[],[],0,0,0
+242,Indigenous,"Aveva un volto largo, chiaro, generoso, e anche le mani erano chiare, ben fatte.",['mano'],['volto'],[],[],[],[],[],[],1,1,0
+243,Indigenous,"Voleva « isolarmi », peggio di quanto già fossi.",[],[],[],[],[],[],[],[],0,0,0
+244,Indigenous,"(la vedevo passare seminuda nel vano della porta, cominciava a lavarsi, sfiancata dal caldo anche le",[],"['la', 'lei']",[],[],[],[],[],[],0,2,0
+245,Indigenous,"Era un ’ indigena, si sdraiò e ascoltava serenamente i nostri discorsi, nessuno le disse di andarsen","['nessuno', 'io']",['discorrere'],[],[],"['dire', 'pensare']",[],[],"['dire', 'pensare']",2,1,0
+246,Indigenous,"Leggeva un giornale di novelle, che gettò a terra quando mi vide entrare, ma non parve sorpresa, e f",['che'],"['giornale', 'sorpresa']",[],[],['gettare'],[],[],['gettare'],1,2,0
+247,Indigenous,"Stette a lungo incerta, forse aspettava clienti; oppure la mia mossa la stava sconcertando.",['mossa'],"['cliente', 'la']",[],[],['sconcertare'],[],['sconcertare'],[],1,2,0
+248,Indigenous,"Il marinaio chiese chi era l ’ uomo che doveva imbarcarsi; ma poiché la donna taceva, stimando inuti","['marinaio', 'uomo', 'che', 'donna']","['chi', 'risposta']",[],[],"['chiedere', 'imbarcare', 'tamere']",[],['chiedere'],"['imbarcare', 'tamere']",4,2,0
+249,Indigenous,"Era un ’ indigena evoluta, leggeva novelle, lettura che doveva essere per lei fonte d ’ orgoglio e p",['che'],"['novella', 'giornale', 'lo', 'situazione']",[],[],[],[],[],[],1,4,0
+250,Indigenous,"Questa era una buona situazione, stava proteggendo un uomo.",['questo'],['uomo'],[],[],[],[],[],[],1,1,0
+251,Indigenous,E non sospettava nemmeno quale assurdo motivo mi avesse spinto in quella casa.,[],['motivo'],[],[],[],[],[],[],0,1,0
+252,Indigenous,"Quale assurdo ma implacabile motivo mi avesse spinto da lei, che parlava come le sue bionde eroine e","['assurdo', 'motivo', 'che']",['concetto'],[],[],"['spingere', 'spingere', 'parlare']",[],[],"['spingere', 'parlare']",3,1,0
+253,Indigenous,"Stava silenziosa, onorata di potermi offrire la sua ospitalità.",[],['ospitalità'],[],[],[],[],[],[],0,1,0
+254,Indigenous,Ora certo stava immaginando cosa mai avevo potuto fare per mettermi in quella strada senza uscita.,[],['cosa'],[],[],[],[],[],[],0,1,0
+255,Indigenous,Non sapeva nulla.,[],[],[],[],[],[],[],[],0,0,0
+256,Indigenous,"Il giorno dopo avrebbe rinnovato la proposta ad altri marinai, ad altri capitani, per quello spirito",['carabiniere'],"['proposta', 'imbarco']",[],[],['venire'],[],[],['venire'],1,2,0
+257,Indigenous,E la donna avrebbe abboccato.,['donna'],[],[],[],['abboccare'],[],[],['abboccare'],1,0,0
+258,Indigenous,"Doveva lavarsi non per passare il tempo, ma per combattere il caldo.",[],"['tempo', 'caldo']",[],[],[],[],[],[],0,2,0
+259,Indigenous,"Ma se le avessi parlato, ora che mi aveva espressa la sua simpatia, non avrebbe sentito un pentiment",[],"['simpatia', 'pentimento']",[],[],[],[],[],[],0,2,0
+260,Indigenous,"La donna alzò le spalle, certo che doveva piacerle.",['donna'],"['spalla', 'le']",[],[],['alzare'],[],['alzare'],[],1,2,0
+261,Indigenous,"Aveva raggiunto quell ’ invidiabile posizione di una casetta con la doccia, aveva clienti, sapeva le",['ragazzo'],"['posizione', 'cliente', 'novella', 'ingegnere']",[],[],['sposare'],[],['sposare'],[],1,4,0
+262,Indigenous,"E non aveva mai conosciuto ingegneri, se non in mutande.",[],['ingegnere'],[],[],[],[],[],[],0,1,0
+263,Indigenous,"Sarei partito, quella donna aveva sorriso al soffitto solo perché il fuochista s ’ era svegliato all","['donna', 'fuochista']",['sorriso'],[],[],"['avere', 'svegliare']",[],['avere'],['svegliare'],2,1,0
+264,Indigenous,"Allora entrò nella sua stanza: il mio rifiuto l ’ aveva forse offesa, non valeva proprio la pena di ","['rifiuto', 'che']","['lo', 'offesa', 'pena']",[],[],"['avere', 'nascondere']",[],['avere'],['nascondere'],2,3,0
+265,Indigenous,"Aveva imparato a leggere, andava al cinema, non si lavava più nelle pozze dei torrenti secchi, non r",[],['moneta'],['villaggio'],[],[],['dimenticare'],[],[],0,2,1
+266,Indigenous,"Poteva restar nuda non per estrema innocenza, ma perché aveva superato tutti i pudori.",[],['pudore'],[],[],[],[],[],[],0,1,0
+267,Indigenous,"E se si copriva il ventre con la vestaglia, improvvisamente, non era certo per timore della mia rivo",[],['ventre'],[],[],[],[],[],[],0,1,0
+268,Indigenous,"Stava ferma e composta, il suo volto non voleva esprimere nulla, ma gli occhi, che vedevo soltanto a","['volto', 'occhio', 'che']",['la'],[],[],"['esprimere', 'vedere']",[],['esprimere'],['vedere'],3,1,0
+269,Indigenous,Aveva creduto che volessi colpirla.,[],['la'],[],[],[],[],[],[],0,1,0
+270,Indigenous,“ Perché questa commedia ? ”,[],[],[],[],[],[],[],[],0,0,0
+271,Indigenous,dicevano i suoi occhi.,[],['occhio'],[],[],[],[],[],[],0,1,0
+272,Indigenous,"Si scostò come se l ’ avessi schiaffeggiata, divenne livida, pensava che non valeva l ’ avermi ospit",['lo'],['risparmio'],[],[],['schiaffeggiare'],[],[],['schiaffeggiare'],1,1,0
+273,Indigenous,Non potevo perdonarle di essere una donna diversa da quelle che popolavano le sue letture ?,['che'],"['le', 'lettura']",[],[],['popolare'],[],['popolare'],[],1,2,0
+274,Indigenous,"Non disse nulla, si muoveva e forse sorrideva al soffitto, come aveva sorriso allorché tentavo di co",[],"['la', 'sorriso', 'fuochista']",[],[],[],[],[],[],0,3,0
+275,Indigenous,"Ma inutile ormai cercare trentaduemila lire, ammesso che Mariam voglia fare il suo bel gesto, sotto ","['Mariam', 'perfidia']","['lira', 'gesto']",[],[],"['fare', 'nascondere']",[],['fare'],['nascondere'],2,2,0
+276,Indigenous,Aveva la carta di sottomissione infissa nello spacco della canna.,[],['carta'],[],[],[],[],[],[],0,1,0
+277,Indigenous,"Gli sorrisi e lui proseguì, tetro e fiducioso, salutando.",['sorriso'],[],[],[],['proseguire'],[],[],['proseguire'],1,0,0
+278,Indigenous,"Doveva già sospettare qualcosa, perché il mio contegno era già di un fuggiasco, non più di un uffici",['contegno'],['qualcosa'],[],[],[],[],[],[],1,1,0
+279,Indigenous,"A pochi passi da me c ’ era Johannes, seduto sui talloni, impassibile, sorseggiava qualcosa dalla sc",['che'],['qualcosa'],[],[],['servire'],[],[],['servire'],1,1,0
+280,Indigenous,"Sorseggiava guardando attorno a sé, non s ’ era accorto che avevo aperto gli occhi",[],"['s', 'occhio']",[],[],[],[],[],[],0,2,0
+281,Indigenous,"Poi, seguitammo a tacere per qualche minuto, io incapace di parlare, lui guardandomi senza curiosità","['io', 'lui']","['mano', 'canna']",[],[],"['seguire', 'guardare']",[],['guardare'],['seguire'],2,2,0
+282,Indigenous,"Camminava curvo, le spalle rientrate.",['spalla'],[],[],[],['camminare'],[],[],['camminare'],1,0,0
+283,Indigenous,"Sarebbe andato a chiedere soccorsi, non voleva noie.",[],['noia'],[],[],[],[],[],[],0,1,0
+284,Indigenous,Riconosceva il mio diritto.,[],['diritto'],[],[],[],[],[],[],0,1,0
+285,Indigenous,"Poiché mi guardava, senza capire o fingendo di non capire perché confessassi, non osando nemmeno rit",[],['mano'],[],[],[],[],[],[],0,1,0
+286,Indigenous,ch ’ era secca e scabra come un ferro mangiato dalla ruggine,['ch'],[],[],['ruggine'],[],[],[],[],1,0,0
+287,Indigenous,"Si allontanò verso la sua capanna, voltandosi appena a considerarmi, sempre più severo, perché aveva",['convinzione'],"['mi', 'colpo']",[],[],['subire'],[],['subire'],[],1,2,0
+288,Indigenous,Ma era soddisfatto.,[],[],[],[],[],[],[],[],0,0,0
+289,Indigenous,"Lo interrogai sulle tribù del bassopiano, ed egli fu prodigo di indicazioni, sicché alla fine del no","['egli', 'io']",['lo'],[],[],['recarmare'],[],[],['recarmare'],2,1,0
+290,Indigenous,"Lavorava lentamente, facendo la punta ai pali col suo coltello, ma interrompendosi spesso a guardare",[],"['la', 'coltello', 'spiazzo']",[],[],[],[],[],[],0,3,0
+291,Indigenous,"Erano pali che gli servivano di certo per un nuovo giaciglio; poi, contandoli mi accorsi che per un ",['che'],"['letto', 'palo']",[],[],['servire'],[],[],['servire'],1,2,0
+292,Indigenous,"Restava a volte col coltello nella mano alzata, ma gli occhi non vedevano più in là del suo fuoco, o","['coltello', 'occhio', 'ch']",[],[],[],"['restare', 'vedere']",[],[],"['restare', 'vedere']",3,0,0
+293,Indigenous,"Quando riprendeva a dar colpi col coltello (e mi irritava la sua lentezza, perché spesso non riusciv","['che', 'giorno', 'egli']","['colpo', 'coltello', 'lentezza', 'legno', 'lo', 'pensiero', 'lo']",[],[],"['preoccupare', 'passare', 'accennare']",[],['preoccupare'],"['passare', 'accennare']",3,7,0
+294,Indigenous,"Veniva talvolta a dirmi altre cose sui luoghi del bassopiano, contento se mi vedeva prendere il tacc",[],"['cosa', 'taccuino', 'le']",[],[],[],[],[],[],0,3,0
+295,Indigenous,"Anche Johannes, suppongo, non conosceva il valore del Tempo, e laggiù le stagioni mutavano appena il","['Johannes', 'stagione', 'egli']","['valore', 'colore', 'stagione']",[],[],"['conoscere', 'mutare', 'vivere']",[],"['conoscere', 'mutare', 'vivere']",[],3,3,0
+296,Indigenous,"e Johannes mi stava osservando, perché quell ’ operazione doveva sembrargli un sintomo chiaro della ","['Johannes', 'operazione']",['sintomo'],[],[],"['osservare', 'sembrare']",[],['sembrare'],['osservare'],2,1,0
+297,Indigenous,"Lo accettò senza ringraziare, come un omaggio dovutogli, subito introdusse la lingua nel pacchetto, ",[],"['lo', 'lingua', 'sale']",[],[],[],[],[],[],0,3,0
+298,Indigenous,"Johannes, come tutti i suoi simili, doveva considerarlo il più prezioso degli elementi, preferibile ",['Johannes'],"['lo', 'guerra']",[],[],['considerare'],[],['considerare'],[],1,2,0
+299,Indigenous,Ma allora fingeva di non vedermi.,[],[],[],[],[],[],[],[],0,0,0
+300,Indigenous,"Forse il vecchio si aspettava che rifiutassi, o almeno che ne restassi sorpreso,",['vecchio'],[],[],[],['aspettare'],[],[],['aspettare'],1,0,0
+301,Indigenous,"Mi accorsi che avevo vinto, perché Johannes dimenticava di mangiare e si distraeva a guardarmi, a sp",['Johannes'],"['mi', 'effetto']",[],[],['dimenticare'],[],[],['dimenticare'],1,2,0
+302,Indigenous,"E per la prima volta gli occhi di Johannes tradirono una curiosità, la curiosità del dinamitardo che","['occhio', 'che', 'bomba']","['curiosità', 'miccia']",[],[],"['tradire', 'scoppiare']",[],['tradire'],['scoppiare'],3,2,0
+303,Indigenous,"Johannes non poté tenersi, e, con visibile sforzo, chiese se mi piaceva quel cibo.","['Johannes', 'cibo']",[],[],[],"['tenere', 'piacere']",[],[],"['tenere', 'piacere']",2,0,0
+304,Indigenous,"Johannes riprese a mangiare, gli leggevo sul volto un ’ improvvisa delusione, e poco dopo si arrende",['Johannes'],['delusione'],[],[],['riprendere'],[],[],['riprendere'],1,1,0
+305,Indigenous,"Posso dire che da quel momento Johannes cominciò a rispettarmi, anzi a temermi e non dovetti più gir",['Johannes'],"['mi', 'stivale']",[],[],['cominciare'],[],[],['cominciare'],1,2,0
+306,Indigenous,"Quando lo guardavo si limitava ormai a fingere di non vedermi, ma non era più insolente, anche se di",[],"['lo', 'parola', 'grado']",[],[],[],[],[],[],0,3,0
+307,Indigenous,Non se ne sarebbe valso per umiliarmi sempre di più ?,[],[],[],[],[],[],[],[],0,0,0
+308,Indigenous,Stimavo Johannes insensibile ai panorami e forse incapace di vederli; il suo occhio elementare non e,"['Johannes', 'occhio']","['li', 'elemento', 'quadro']",[],[],['stimare'],[],[],['stimare'],2,3,0
+309,Indigenous,"Egli poteva vedere un albero, una capanna, l ’ altopiano, il fiume, la boscaglia, ma non certo consi",['egli'],"['albero', 'li', 'parte']",[],[],['vedere'],[],['vedere'],[],1,3,0
+310,Indigenous,"La sua visione utilitaria sfrondava il superfluo, e invece ora guardava la valle e mi accorgevo che ","['visione', 'tutto', 'sguardo']","['superfluo', 'valle', 'la', 'le']",[],[],"['sfrondare', 'vedere', 'fermare']",[],"['sfrondare', 'vedere']",['fermare'],3,4,0
+311,Indigenous,Un pittore non avrebbe guardato diversamente.,['pittore'],[],[],[],['guardare'],[],[],['guardare'],1,0,0
+312,Indigenous,"Colsi l ’ occasione quando Johannes, volgendo gli occhi, li posò sulla mia persona, considerandola, ",['Johannes'],"['occasione', 'occhio', 'li', 'la', 'parte']",[],[],['posare'],[],['posare'],[],1,5,0
+313,Indigenous,"Gli dissi che mi piaceva quel luogo, e poiché non rispondeva (sì, avevo sopravvalutato il suo giudiz",['luogo'],['giudizio'],[],[],['piacere'],[],[],['piacere'],1,1,0
+314,Indigenous,"« Da un anno » e fece un gesto, quasi volesse gettarsi dietro le spalle il ricordo del tempo trascor",[],"['gesto', 'ricordo']",[],[],[],[],[],[],0,2,0
+315,Indigenous,S ’ era incantato a guardare la valle e daccapo mi sembrava che la vedesse.,['S'],"['valle', 'la']",[],[],['incantare'],[],[],['incantare'],1,2,0
+316,Indigenous,"Poi esitando, perché lo sentivo sperduto in quella sua insolita contemplazione, dissi:",[],['lo'],[],[],[],[],[],[],0,1,0
+317,Indigenous,Perché negava così palesemente ?,[],[],[],[],[],[],[],[],0,0,0
+318,Indigenous,"Forse gli doleva ammettere ciò ch ’ egli suponeva: che Mariam era fuggita prima del massacro, senza ","['ch', 'egli', 'Mariam']","['ciò', 'nulla', 'altopiano']",[],[],"['suporre', 'suporre', 'fuggire']",[],[],"['suporre', 'fuggire']",3,3,0
+319,Indigenous,"Rivedevo Johannes nelle strade della cittadina, fermo sulle soglie ospitali, e ricordavo i suoi occh","['Johannes', 'che']",['occhio'],[],[],"['rivedere', 'frugare']",[],[],"['rivedere', 'frugare']",2,1,0
+320,Indigenous,« Non era di questo villaggio » interruppe Johannes con voce talmente calma da non lasciar supporre ,['Johannes'],['finzione'],[],[],['interrompere'],[],[],['interrompere'],1,1,0
+321,Indigenous,Se avesse detto la verità ?,[],['verità'],[],[],[],[],[],[],0,1,0
+322,Indigenous,Forse la sua permanenza nella cittadina e il suo inutile girovagare nelle case ospitali aveva avuto ,['permanenza'],"['scopo', 'quale']",[],[],['avere'],[],['avere'],[],1,2,0
+323,Indigenous,"Forse Elias incontrava spesso Mariam (che abitava nel villaggio « della gallina »), e quegli incontr","['Elias', 'che', 'incontro', 'che']","['Mariam', 'ciò']",[],[],"['incontrare', 'abitare', 'bastare', 'essere']",[],['incontrare'],"['abitare', 'bastare', 'essere']",4,2,0
+324,Indigenous,"Bene, ma qui sono tutti fratelli.",['tutto'],[],[],[],[],[],[],[],1,0,0
+325,Indigenous,Non si accostano le sorelle per offrirti la loro timida complicità ?,['sorella'],['complicità'],[],[],['accostare'],[],[],['accostare'],1,1,0
+326,Indigenous,"Oppure Elias aveva mentito, innocentemente, come mentono i bambini.","['Elias', 'bambino']",[],[],[],"['mentire', 'mentere']",[],[],"['mentire', 'mentere']",2,0,0
+327,Indigenous,Il vecchio non sospettò nemmeno quanta calma mi davano le sue menzogne che quasi mi assolvevano.,"['vecchio', 'che']","['calma', 'menzogna']",[],[],"['sospettare', 'assolvere']",[],[],"['sospettare', 'assolvere']",2,2,0
+328,Indigenous,"Johannes mi guardò, corrugando la fronte, senza capire.",['Johannes'],['fronte'],[],[],['guardare'],[],[],['guardare'],1,1,0
+329,Indigenous,"Se alzavo lo sguardo da quel pezzo di cartone, vedevo Johannes che aggiustava i suoi pali e, dal mod","['che', 'che']","['sguardo', 'Johannes', 'palo', 'coltello']",[],[],"['aggiustare', 'adoperare']",[],"['aggiustare', 'adoperare']",[],2,4,0
+330,Indigenous,"Inutile precauzione, Johannes s ’ era svegliato e borbottava, anzi cominciò a parlare nella sua ling",['Johannes'],['sonno'],[],[],['svegliare'],[],[],['svegliare'],1,1,0
+331,Indigenous,"Johannes aveva già dimostrato di non sopportare la mia presenza, il suo villano comportamento della ","['Johannes', 'comportamento', 'che', 'ramo']","['presenza', 'lo']",[],[],"['dimostrare', 'tenere', 'intimorire']",[],['intimorire'],"['dimostrare', 'tenere']",4,2,0
+332,Indigenous,"“ Forse, ” pensavo “ la mia partenza improvvisa lo colpirà, e si pentirà di avermici costretto. ”",['partenza'],['lo'],[],[],['colpire'],[],['colpire'],[],1,1,0
+333,Indigenous,Proseguì chinando il capo cortesemente (la lezione della notte era servita); poi sorrise persino e s,[],['capo'],['lezione'],[],[],['servire'],[],[],0,2,1
+334,Indigenous,Ma forse non sapeva leggere una carta e non immaginava nemmeno che quelle macchie azzurre o rossicce,['macchia'],"['carta', 'mare']",[],[],['significare'],[],['significare'],[],1,2,0
+335,Indigenous,"Sembrava molto lieto e cominciò a dirmi tutto ciò che sapeva sul bassopiano, come già aveva fatto i ",['che'],"['ciò', 'giorno']",[],[],['sapere'],[],[],['sapere'],1,2,0
+336,Indigenous,"Lo disse senza ironia, che ignorava, e si allontanò, come se io fossi partito all ’ istante.","['che', 'io']",['lo'],[],[],"['ignorare', 'partire']",[],[],"['ignorare', 'partire']",2,1,0
+337,Indigenous,Subito dopo Johannes ridivenne il vecchio insofferente che avevo conosciuto nei primi giorni.,"['Johannes', 'che']",['insofferente'],[],[],"['ridivenire', 'conoscere']",[],['ridivenire'],['conoscere'],2,1,0
+338,Indigenous,"Esaurito ciò che stimava suo dovere, indicare la strada al viandante, egli voleva mostrarmi che non ","['che', 'egli']","['ciò', 'dovere', 'strada', 'la']",[],[],"['stimare', 'mostrare']",[],['stimare'],['mostrare'],2,4,0
+339,Indigenous,"Ora, per esempio, camminava per lo spiazzo borbottando e con gli occhi a terra, cercando qualche cos",[],['cosa'],['che'],[],[],['battere'],[],[],0,2,1
+340,Indigenous,"Meglio così, rompendo quel ramo ha placato tutto il suo rancore, come i bambini che picchiano lo spi",['che'],"['ramo', 'rancore', 'spigolo', 'testa']",[],[],['picchiare'],[],['picchiare'],[],1,4,0
+341,Indigenous,"Ora si stima vittorioso e quest ’ illusione lo renderà sopportabile per tutta la giornata, per quest",['illusione'],['lo'],[],[],['rendere'],[],['rendere'],[],1,1,0
+342,Indigenous,"Eppure, mentre mi dicevo queste cose, sentivo che Johannes era capace delle più meditate vendette, l","['cosa', 'Johannes', 'durezza', 'trasporto']",['manovra'],[],[],"['dire', 'suggerire', 'nascondere']",[],['nascondere'],"['dire', 'suggerire']",4,1,0
+343,Indigenous,"Lo guardò esterrefatto, era forse la somma più grossa che avesse mai vista, e fece il gesto di indie",['che'],"['lo', 'gesto']",[],[],['vedere'],[],[],['vedere'],1,2,0
+344,Indigenous,"Ma adesso scuoteva la testa e porgeva verso di me il foglio, come chi respinge il prezzo del tradime",[],"['testa', 'foglio', 'prezzo']",[],[],[],[],[],[],0,3,0
+345,Indigenous,"Lo vedevo agitato, sconvolto forse dal miraggio di quel possesso, ma non poteva accettare, non avreb",[],['lo'],[],['miraggio'],[],[],[],[],0,1,0
+346,Indigenous,"Stavolta appariva più rabbuiato del solito, mi lanciava sguardi carichi di un odio così profondo che",['che'],"['sguardo', 'lo']",[],[],['rallegrare'],[],[],['rallegrare'],1,2,0
+347,Indigenous,"Invano cercavo di spiegarmi le ragioni del suo rifiuto, finché dissi che potevo cercarla nel tumulo ",['che'],"['ragione', 'la', 'lo']",[],[],['contribuire'],[],[],['contribuire'],1,3,0
+348,Indigenous,“ Non ha dimenticato ” dissi “ e non dimenticherà mai.,[],[],[],[],[],[],[],[],0,0,0
+349,Indigenous,"Ed è una bella pretesa la mia, che egli deponga il suo rancore davanti a un biglietto di banca, che ","['egli', 'che', 'terra', 'che']","['rancore', 'occasione']",[],[],"['deporre', 'avere', 'bastare', 'offrire']",[],"['deporre', 'avere']","['bastare', 'offrire']",4,2,0
+350,Indigenous,"È un saggio e, come tutti i saggi, detesta il denaro perché ne sospetta il fascino.",[],"['denaro', 'fascino']",[],[],[],[],[],[],0,2,0
+351,Indigenous,Vuol fuggire le tentazioni.,[],['tentazione'],[],[],[],[],[],[],0,1,0
+352,Indigenous,"O vuol soltanto dimostrarsi che sono il vincitore ma non l ’ amico, che posso vendergli, ma non rega",['che'],['qualcosa'],[],[],['vendere'],[],[],['vendere'],1,1,0
+353,Indigenous,"Presi a maledire il vecchio, che aveva giuocato in modo da rendere impossibile la mia fuga.",['che'],"['vecchio', 'fuga']",[],[],['giuocare'],[],[],['giuocare'],1,2,0
+354,Indigenous,Riconoscevo l ’ astuzia del primitivo che si affida alla notte per caricare le sue trappole.,['che'],"['astuzia', 'trappola']",[],[],['affidare'],[],[],['affidare'],1,2,0
+355,Indigenous,"Quando l ’ ebbe finita, gettò il mozzicone ostentatamente verso di me, ma penso che non abbia voluto",['lo'],"['mozzicone', 'lo']",[],[],['finire'],[],[],['finire'],1,2,0
+356,Indigenous,"Dacché mi chiudevo nella capanna sino a quando ne uscivo, il vecchio parlava sempre: era quello il s","['vecchio', 'modo']",['compagnia'],[],[],['parlare'],[],[],['parlare'],2,1,0
+357,Indigenous,"A volte, invece, parlava rapidamente nella sua lingua, ed ero certo che si rivolgeva al mulo, benché",[],['succo'],[],[],[],[],[],[],0,1,0
+358,Indigenous,Si aggiunga che Johannes si mostrava sensibile alla mia discrezione: il non vedermi più sullo spiazz,['Johannes'],['presenza'],[],[],['mostrare'],[],[],['mostrare'],1,1,0
+359,Indigenous,"Mi sorrideva, felice che ammirassi la capanna, che doveva sembrargli una costruzione meravigliosa.",['che'],"['capanna', 'costruzione']",[],[],['sembrare'],[],['sembrare'],[],1,2,0
+360,Indigenous,"Accennava ai muri, li batteva con le nocche per farmi sentire che risuonavano e intanto si assicurav","['tutto', 'che']","['li', 'stanza']",[],[],['mostrare'],[],['mostrare'],[],2,2,0
+361,Indigenous,"Forse desiderava che venissi ad abitarla, per non avermi tutto il giorno tra i piedi.",[],['la'],[],[],[],[],[],[],0,1,0
+362,Indigenous,Ma allora perché faceva distinzioni così sottili ?,[],['distinzione'],[],[],[],[],[],[],0,1,0
+363,Indigenous,Perché quella capanna sì e questa no ?,[],[],[],[],[],[],[],[],0,0,0
+364,Indigenous,Questo Johannes non seppe o non volle dirlo.,['Johannes'],['lo'],[],[],['sapere'],[],[],['sapere'],1,1,0
+365,Indigenous,"Anzi, non volle dirlo.",[],['lo'],[],[],[],[],[],[],0,1,0
+366,Indigenous,"Johannes si guardò attorno, meravigliato che non sapessi dove si trovava il prete.","['Johannes', 'prete']",[],[],[],"['guardare', 'trovare']",[],[],"['guardare', 'trovare']",2,0,0
+367,Indigenous,"Aveva mentito, pur di non ammettere l ’ esistenza di Mariam.",[],['esistenza'],[],[],[],[],[],[],0,1,0
+368,Indigenous,"Ossia, ammetteva che io fossi lebbroso e che quella capanna mi spettasse di diritto, ma non voleva a","['io', 'capanna']",['esistenza'],[],[],['spettare'],[],[],['spettare'],2,1,0
+369,Indigenous,Succedeva che Johannes partisse senza avvisarlo (e credo che lo facesse per vanità),['Johannes'],"['lo', 'lo']",[],[],['partire'],[],[],['partire'],1,2,0
+370,Indigenous,"« Ammetto, » seguitai « che la tua vita valesse qualcosa, se in cambio mi offri persino ciò che non ","['vita', 'che']","['qualcosa', 'ciò']",[],[],"['valere', 'chiedere']",[],['valere'],['chiedere'],2,2,0
+371,Indigenous,"Veniva lentamente e certo già stava meditando che cosa doveva dirmi, ma giunto a pochi passi dalla c",['cosa'],[],[],[],['dire'],[],[],['dire'],1,0,0
+372,Indigenous,"Lavorava ora con insolito vigore, levava alto il braccio e colpiva giusto, senza incantarsi a guarda",['risposta'],"['braccio', 'cosa', 'lo', 'stizza']",[],[],['disorientare'],[],['disorientare'],[],1,4,0
+373,Indigenous,"Anzi, se mal tollerava la mia presenza al villaggio era proprio perché aspettava, suppongo, il ritor",['ritorno'],['presenza'],[],[],['aspettare'],[],[],['aspettare'],1,1,0
+374,Indigenous,"E con Johannes, profeta senza popolo, che aveva nelle ossa la verità di quelle sentenze senza conosc",['che'],"['verità', 'uno']",[],[],['avere'],[],['avere'],[],1,2,0
+375,Indigenous,Johannes era un saggio e nemmeno sapeva di esserlo.,['Johannes'],[],[],[],[],[],[],[],1,0,0
+376,Indigenous,"Aveva bandito il mondo da sé e viveva accanto ai suoi morti, senza sgomentarsi al calar della sera, ",['che'],"['mondo', 'ombra', 'ombra']",[],[],['riconducere'],[],['riconducere'],[],1,3,0
+377,Indigenous,"Era questa la sua forza, la forza di stare accanto ai suoi morti e di vivere con essi gli ultimi gio",['forza'],['giorno'],[],[],[],[],[],[],1,1,0
+378,Indigenous,"Egli non se lo poneva come una penitenza, per meritarsi un Paradiso, ma per sentirsi in buona compag",['egli'],"['lo', 'Paradiso']",[],[],['porre'],[],['porre'],[],1,2,0
+379,Indigenous,Gli era parso assurdo privare il villaggio delle persone che l ’ avevano abitato e con le quali avev,['che'],"['villaggio', 'lo', 'giorno']",[],[],['abitare'],[],['abitare'],[],1,3,0
+380,Indigenous,Non era un custode.,[],[],[],[],[],[],[],[],0,0,0
+381,Indigenous,"Johannes si levava dal suo giaciglio e, benché non l ’ avessi mai visto in atteggiamento di preghier",['Johannes'],['lo'],[],[],['levare'],[],[],['levare'],1,1,0
+382,Indigenous,Ma forse Johannes aveva superata l ’ età della morte.,['Johannes'],['età'],[],[],['superare'],[],['superare'],[],1,1,0
+383,Indigenous,"Aspettava che lasciassi quel luogo, che mi accorgessi una buona volta che la mia presenza offendeva ",['presenza'],"['luogo', 'lui']",[],[],['offendere'],[],['offendere'],[],1,2,0
+384,Indigenous,"Se fossi restato a lungo, qualcosa dal profondo della sua natura lo avrebbe spinto al gesto che lui ","['qualcosa', 'lui', 'che']","['lo', 'che', 'palo', 'erba']",[],[],"['spingere', 'temere', 'adoperare']",[],"['spingere', 'temere']",['adoperare'],3,4,0
+385,Indigenous,"Avrebbe dimenticato per un attimo il rispetto dovutomi, la parola e l ’ esempio dei suoi venerati uf",[],['rispetto'],[],[],[],[],[],[],0,1,0
+386,Indigenous,Johannes non si sarebbe lasciato sedurre da una scusa tanto personale.,['Johannes'],[],[],[],['lasciare'],[],[],['lasciare'],1,0,0
+387,Indigenous,"E perché escludere che Johannes sia incapace del male, che sia un santo anacoreta ?",['Johannes'],[],[],[],[],[],[],[],1,0,0
+388,Indigenous,"Sommerso da quell ’ inaspettata accoglienza, Elias mi guardava diffidente e anche stupito, chiedendo",['Elias'],['ragione'],[],['accoglienza'],['guardare'],[],[],['guardare'],1,1,0
+389,Indigenous,"Evitava di guardarmi, imbarazzato di vedermi così malridotto, la barba lunga, la camicia ormai a bra",[],"['mi', 'barba']",[],[],[],[],[],[],0,2,0
+390,Indigenous,Elias invece era ben messo nella sua divisa racconciata.,[],[],['Elias'],[],[],['mettere'],[],[],0,1,1
+391,Indigenous,"Sul capo ostentava una bustina militare e al polso un orologio, segno questo che i suoi guadagni pro",['guadagno'],"['bustina', 'che']",[],[],['prosperare'],[],['prosperare'],[],1,2,0
+392,Indigenous,"Era libero, indipendente, viaggiava per suo conto, e cominciava a provare le prime gioie dei guadagn",[],['gioia'],[],[],[],[],[],[],0,1,0
+393,Indigenous,Non si toglieva la giubba appunto per significare che si sarebbe fermato solo il tempo necessario a ,"['tempo', 'me', 'parente', 'che', 'che']","['giubba', 'cosa', 'la', 'le', 'concetto']",[],[],"['fermare', 'lasciare', 'lasciare', 'ricordare', 'avere']",[],['ricordare'],"['fermare', 'lasciare', 'lasciare', 'avere']",5,5,0
+394,Indigenous,"Era venuto a visitare il vecchio, forse a portargli un po ’ di denaro, un po ’ di pane, e quel miste",['Johannes'],"['vecchio', 'poco', 'che']",[],[],['affrettare'],[],['affrettare'],[],1,3,0
+395,Indigenous,"Ora se ne sarebbe andato, felice di lasciare la desolata natura che l ’ aveva visto nascere e che ad",['che'],"['natura', 'lo', 'timore']",[],[],['vedere'],[],['vedere'],[],1,3,0
+396,Indigenous,"Gli dispiaceva, ma come al negoziante che mitiga con un sorriso di cortesia il suo rifiuto",['che'],['rifiuto'],[],[],['mitigare'],[],['mitigare'],[],1,1,0
+397,Indigenous,"Frugò nel tascapane, senza sorpresa, e non si sorprese nemmeno quando vide che la strappavo.",[],['la'],[],[],[],[],[],[],0,1,0
+398,Indigenous,"Quando ebbi finito, accennò di sì con la testa e scopersi nel suo sguardo qualcosa di nuovo: non tan",['cosa'],['qualcosa'],[],[],['succedere'],[],[],['succedere'],1,1,0
+399,Indigenous,"I miei uomini non mi ubbidivano più, pensava.",['uomo'],[],[],[],['ubbidire'],[],[],['ubbidire'],1,0,0
+400,Indigenous,"Ero stato vinto, spodestato, ed egli poteva permettersi di proteggermi e di ascoltare le mie raccoma",['egli'],"['mi', 'raccomandazione']",[],[],['permettere'],[],[],['permettere'],1,2,0
+401,Indigenous,"Sentiva di valere qualcosa ai miei occhi, ma la sua vittoria lo lasciava persino indifferente.",['vittoria'],"['qualcosa', 'lo']",[],[],['lasciare'],[],['lasciare'],[],1,2,0
+402,Indigenous,"Ma Johannes girava per lo spiazzo senza vedermi, e non sentiva affatto il bisogno, come io lo sentiv","['Johannes', 'io', 'che']","['bisogno', 'lo', 'pretesta', 'vita']",[],[],"['girare', 'sentire', 'offrire']",[],"['sentire', 'offrire']",['girare'],3,4,0
+403,Indigenous,Il suo stato naturale era ormai la solitudine e forse l ’ incidente gli aveva fornito l ’ occasione ,"['stato', 'incidente', 'che']","['occasione', 'modo']",[],[],"['fornire', 'sapere']",[],['fornire'],['sapere'],3,2,0
+404,Indigenous,"Era in piedi, appoggiato con ambo le mani al suo lungo bastone, come un lanciere in riposo: e seguit",[],['mano'],[],[],[],[],[],[],0,1,0
+405,Indigenous,"In quelle tenebre vedevo appena i suoi occhi giallicci, acquosi.",[],['occhio'],[],[],[],[],[],[],0,1,0
+406,Indigenous,"Non sembrava affatto preoccupato della mia sorpresa e, anzi, sempre più insolente, e a un tratto mi ",[],['occhio'],[],[],[],[],[],[],0,1,0
+407,Indigenous,Forse in questo subitaneo cambiamento gran parte aveva avuto la mia difesa e quel colpo che rimpiang,"['parte', 'che', 'Johannes']",['difesa'],[],[],"['avere', 'rimpiangere', 'esimere']",[],['avere'],"['rimpiangere', 'esimere']",3,1,0
+408,Indigenous,"Era stato un colpo rapido, preceduto da una finta, un comune colpo di quinta alla testa, ma Johannes",['Johannes'],['lo'],[],['finta'],['apprezzare'],[],['apprezzare'],[],1,1,0
+409,Indigenous,"Ora mi fissava con sorridente rispetto, a meno che il suo contegno non gli venisse dettato dalla riv",['che'],[],['contegno'],['rivoltella'],['portare'],['dettare'],[],['portare'],1,1,1
+410,Indigenous,"Sembrava, dunque, essermi diventato improvvisamente amico, ma non potevo fidarmi di questo mutamento",['che'],"['tranello', 'via']",[],[],['mascherare'],[],['mascherare'],[],1,2,0
+411,Indigenous,Non era tipo da perdonarmi.,[],[],[],[],[],[],[],[],0,0,0
+412,Indigenous,Quel suo profittare dei miei rimorsi per farsi servire me lo confermava in pieno.,[],['lo'],[],[],[],[],[],[],0,1,0
+413,Indigenous,"Anzi, lo stesso Elias non si sarebbe meravigliato della scomparsa del vecchio.",['Elias'],[],[],[],['meravigliare'],[],[],['meravigliare'],1,0,0
+414,Indigenous,"Johannes, capace di rifiutare cinquecento lire, avrebbe esitato davanti a cinquemila.",['Johannes'],['lira'],[],[],['esitare'],[],[],['esitare'],1,1,0
+415,Indigenous,"Si sarebbe sentito improvvisamente ricco e mi avrebbe offerta l ’ altra guancia, perdonando.",[],['guancia'],[],[],[],[],[],[],0,1,0
+416,Indigenous,Sembrava soddisfatto.,[],[],[],[],[],[],[],[],0,0,0
+417,Indigenous,"Possedeva, sì, un orologio, ma soltanto per vanità, e per farne sentire il ticchettio ai suoi giovan",[],"['orologio', 'ticchettio']",[],[],[],[],[],[],0,2,0
+418,Indigenous,"E io avevo atteso, pieno di fiducia in quel bimbo, che, già andandosene, meditava di tradirmi.","['io', 'che']",[],[],[],"['attendere', 'meditare']",[],[],"['attendere', 'meditare']",2,0,0
+419,Indigenous,"Non s ’ era dimenticato, Elias, il mio ceffone nella tenda e anche lui voleva la sua parte di vendet","['Elias', 'lui']",['parte'],[],[],"['dimenticare', 'volere']",[],['volere'],['dimenticare'],2,1,0
+420,Indigenous,"Se ha perdonato e la sua amicizia di questi giorni è sincera, farà di tutto per salvarmi.",['amicizia'],['mi'],[],[],[],[],[],[],1,1,0
+421,Indigenous,"Ne seguì che il giovane, frenando la gelosia (che costoro evitano perché danno alle cose il loro giu","['giovane', 'costoro', 'scherzo']","['gelosia', 'che', 'valore']",[],[],"['attesa', 'evitare', 'parere']",[],['evitare'],"['attesa', 'parere']",3,3,0
+422,Indigenous,"La donna s ’ era messa un turbante per lavarsi, ma sapeva di commettere sacrilegio o per lo meno un ",[],['sacrilegio'],"['donna', 'turbante']",[],[],"['mettere', 'mettere']",[],[],0,3,2
+423,Indigenous,"Come avrebbe osato, in questa terra dove (e qui il sottotenente calcò le parole) si conservano alcun","['sottotenente', 'qualità', 'popolo']","['parola', 'che']",[],[],"['calcare', 'conservare', 'perdere']",[],"['calcare', 'perdere']",['conservare'],3,2,0
+424,Indigenous,"Qui siamo nella metafisica, e Johannes accetta la metafisica.",['Johannes'],['metafisica'],[],[],['accettare'],[],['accettare'],[],1,1,0
+425,Indigenous,"Le lascia guarire ai “ signori ”; e questo, fortunatamente, segna la loro superiorità. »",['questo'],['superiorità'],[],[],['segnare'],[],['segnare'],[],1,1,0
+426,Indigenous,Le guardava sempre coi suoi occhi che non sapevano dissimulare una furberia acquisita di recente.,['che'],"['occhio', 'furberia']",[],[],['sapere'],[],[],['sapere'],1,2,0
+427,Conqueror,"Il soldato che fumava soddisfatto, ormai pronto a dividere con me gli imprevisti della nuova avventu","['soldato', 'che']",['imprevisto'],[],[],"['rabbuiare', 'fumare']",[],[],"['fumare', 'rabbuiare']",2,1,0
+428,Conqueror,Il soldato non voleva cedere.,['soldato'],[],[],[],['cedere'],[],[],['cedere'],1,0,0
+429,Conqueror,"Era passato soltanto un colonnello, annoiato come un generale.",['colonnello'],[],[],[],['passare'],[],[],['passare'],1,0,0
+430,Conqueror,Il soldato finse di crederci e questa sua improvvisa e ostile condiscendenza mi fece arrossire.,"['soldato', 'condiscendenza']",[],[],[],"['finsire', 'fare']",[],[],"['finsire', 'fare']",2,0,0
+431,Conqueror,"Mi strinse la mano senza calore, veramente deluso.",[],['mano'],[],[],[],[],[],[],0,1,0
+432,Conqueror,Qualche soldato che s ’ era fermato dicendo: « Non ce la faccio » e aveva anche penato a convincere ,"['che', 'che']","['la', 'sergente', 'lo']",[],[],"['fermare', 'lasciare']",[],['lasciare'],['fermare'],2,3,0
+433,Conqueror,"Una cassetta serve sempre, e chi ne possiede appena una si allieta la tenda di un mobile straordinar","['cassetta', 'chi', 'uno', 'tenda']",['ritratto'],[],[],"['servire', 'servire', 'allietare', 'allietare']",[],[],"['servire', 'allietare']",4,1,0
+434,Conqueror,"E non è tanto difficile procurarsi una donna da amare, quanto procurarsi una cassetta.",[],"['donna', 'cassetta']",[],[],[],[],[],[],0,2,0
+435,Conqueror,"Stavano seduti davanti alle loro tende, chiacchierando col carabiniere del posto di blocco, ancora s",['che'],['carabiniere'],[],[],['immaginare'],[],[],['immaginare'],1,1,0
+436,Conqueror,"Non mi aspettavo certo di suscitare molto interesse, ma quegli operai non fecero commenti, né propos",['operaio'],"['interesse', 'commento', 'soluzione']",[],[],['fare'],[],['fare'],[],1,3,0
+437,Conqueror,"Gli operai si insultavano scherzosamente, in dialetto, cavando anche in questa occasione argomenti r",['operaio'],['argomento'],[],[],['insultare'],[],[],['insultare'],1,1,0
+438,Conqueror,"Piuttosto timido, quando lo guardai si impappinò a ripetermi la sua opinione, che non voleva essere ",['che'],"['lo', 'opinione']",[],[],[],[],[],[],1,2,0
+439,Conqueror,"Restò fermo a guardarmi, aspettando che gli chiedessi dov ’ era la scorciatoia.",[],['mi'],[],[],[],[],[],[],0,1,0
+440,Conqueror,"Aveva una di quelle facce gentili da operaio, che si sono viste almeno una volta, forse affacciandos",['che'],['uno'],[],[],['vedere'],[],[],['vedere'],1,1,0
+441,Conqueror,Aveva accettato per timidezza e ora mi guardava con due occhi di inferiore premiato.,[],['mi'],[],[],[],[],[],[],0,1,0
+442,Conqueror,E aggiunse un ’ osservazione scherzosa che aveva indubbiamente sentita da altri; si vergognava a rif,"['osservazione', 'che']","['la', 'puzzo']",[],[],"['aggiungere', 'sentire']",[],[],"['aggiungere', 'sentire']",2,2,0
+443,Conqueror,"Incapace di licenziare una tavola con tanti vuoti, vi aveva aggiunto a capriccio brevi frasi: Reside",['struzzo'],"['tavola', 'frase']",[],[],['incontrare'],[],[],['incontrare'],1,2,0
+444,Conqueror,"E sempre più mi meravigliavo che una simile principessa fosse scaduta a vivere in quel bassopiano, m","['principessa', 'generale']",['la'],[],[],['scadere'],[],[],['scadere'],2,1,0
+445,Conqueror,"Il dottore del battaglione avrebbe riso più di tutti, rideva sempre più di tutti quando qualcuno rac","['dottore', 'qualcuno', 'che']","['storia', 'immaginazione']",[],[],"['ridere', 'raccontare', 'superare']",[],"['raccontare', 'superare']",['ridere'],3,2,0
+446,Conqueror,"Era un gran dormiglione e riceveva la visita medica in pigiama, maledicendo i soldati che lo rapivan",['che'],"['visita', 'soldato', 'lo']",[],[],['rapire'],[],['rapire'],[],1,3,0
+447,Conqueror,"E il ricordo degli amici lasciati lassù quasi mi commosse, bravi fratelli dei quali un giorno avrei ","['ricordo', 'fratello']",['nome'],[],[],"['commuovere', 'commuovere']",[],[],['commuovere'],2,1,0
+448,Conqueror,"Una volta arrivati giù, l ’ attesa del dottore, che sarebbe arrivato alle otto, con la posta e i viv","['che', 'che']",['occhiata'],[],[],"['arrivare', 'scherzare']",[],[],"['arrivare', 'scherzare']",2,1,0
+449,Conqueror,"Sdraiato sulla branda vicina un giovane fingeva di leggere, ma in realtà mi stava spiando di sopra g",['giovane'],[],[],[],['fingere'],[],[],['fingere'],1,0,0
+450,Conqueror,"Era un giovane dalla faccia rotonda, con un paio di baffetti che mettevano un pretesto di ironia sul",['che'],"['pretesto', 'giubba']",['casco'],[],['mettere'],['togliere'],['mettere'],[],1,3,1
+451,Conqueror,"Fissava, sì, lo sguardo sulla pagina, ma i suoi occhi badavano a non perdere ogni mio lieve moviment",['occhio'],"['sguardo', 'movimento']",[],[],['badare'],[],[],['badare'],1,2,0
+452,Conqueror,Fumava un sigaro.,['sigaro'],[],[],[],['fumare'],[],[],['fumare'],1,0,0
+453,Conqueror,Con quel gesto voleva mostrarmi il suo disappunto.,[],['disappunto'],[],[],[],[],[],[],0,1,0
+454,Conqueror,"La mia faccia sconvolta non lo indusse alle cerimonie, solite tra due ufficiali che si incontrano in","['faccia', 'che']",['lo'],[],[],"['indossere', 'incontrare']",[],['indossere'],['incontrare'],2,1,0
+455,Conqueror,"Riprese a leggere e, poco dopo, interpretando la mia interruzione come a lui meglio conveniva, acces",[],"['interruzione', 'sigaro']",[],[],[],[],[],[],0,2,0
+456,Conqueror,"Sembrava però soddisfatto di avermi svegliato, forse si annoiava.",[],[],[],[],[],[],[],[],0,0,0
+457,Conqueror,"Accese il sigaro e guardò il mio orologio, che avevo messo sulla sedia, e non lo guardava certo sper",['che'],"['sigaro', 'orologio', 'lo', 'ora']",[],[],['mettere'],[],[],['mettere'],1,4,0
+458,Conqueror,"Era un uomo sui quarant ’ anni, leggeva vecchi giornali, indifferente al disordine che lo circondava",['che'],"['giornale', 'lo']",[],[],['circondare'],[],['circondare'],[],1,2,0
+459,Conqueror,L ’ ufficiale sembrava immerso nelle sue letture e così lo lasciammo.,['ufficiale'],['lo'],[],[],['sembrare'],[],[],['sembrare'],1,1,0
+460,Conqueror,"Era un uomo alto e grosso, vestiva con molta cura, camminava tenendo le mani dietro la schiena.",[],['mano'],[],[],[],[],[],[],0,1,0
+461,Conqueror,Forse … Ogni dubbio che egli avesse parlato con intenzione sparì quando l ’ ebbi osservato: il suo v,"['dubbio', 'egli', 'volto']",['fiducia'],[],[],"['sparere', 'parlare', 'ispirare']",[],['ispirare'],"['parlare', 'sparere']",3,1,0
+462,Conqueror,Ancor più ispirava fiducia quel sigaro inadeguato che tradiva tutte le sue ambizioni,"['sigaro', 'che']","['fiducia', 'ambizione']",[],[],"['ispirare', 'tradire']",[],"['ispirare', 'tradire']",[],2,2,0
+463,Conqueror,Il maggiore passò con studiata lentezza davanti alla porta spalancata.,['maggiore'],['lentezza'],[],[],['passare'],[],[],['passare'],1,1,0
+464,Conqueror,"Era forse tentato di entrare, ma proseguì facendo finta di non averci visto e pensai che sotto la su",['libidina'],['finta'],[],[],['covare'],[],[],['covare'],1,1,0
+465,Conqueror,"Si era fermato poco distante e stette a lungo incerto se entrare o no, prima di andarsene.",[],[],[],[],[],[],[],[],0,0,0
+466,Conqueror,"Forse il mio giovane amico non sapeva tacere, apprezzava il silenzio soltanto per il valore delle pa",['amico'],['silenzio'],[],[],['sapere'],[],[],['sapere'],1,1,0
+467,Conqueror,"E finse di guardare la pagina, veramente arrabbiato.",[],['pagina'],[],[],[],[],[],[],0,1,0
+468,Conqueror,"Sentiva che la mia fuga rendeva inutile anche la sua resistenza, anche lui avrebbe dovuto rifare lo ","['fuga', 'lui']","['resistenza', 'zaino']",[],[],"['rendere', 'rifare']",[],"['rendere', 'rifare']",[],2,2,0
+469,Conqueror,Anche loro dovevano andare verso il fiume e suppongo che anche loro fossero stati fermati dal calar ,"['loro', 'che', 'agguato']","['solitudine', 'li']",['loro'],['calar'],"['andare', 'attendere']",['fermare'],['attendere'],['andare'],3,3,1
+470,Conqueror,"Mangiammo in silenzio, poiché il pensiero di riprendere la strada, il giorno dopo, li amareggiava.",['pensiero'],"['strada', 'li']",[],[],['amareggiare'],[],['amareggiare'],[],1,2,0
+471,Conqueror,"Era inevitabile che il discorso cadesse sulle previsioni del ritorno, mi ci appassionai e i soldati ","['discorso', 'soldato']",['argomento'],[],[],"['cadere', 'stare']",[],[],"['cadere', 'stare']",2,1,0
+472,Conqueror,Non volevano e non potevano contraddirmi,[],['mi'],[],[],[],[],[],[],0,1,0
+473,Conqueror,"Sempre elegante, le mani dietro il dorso, gli stivali che brillavano ai riflessi del nostro fuoco.","['mano', 'che']",[],[],[],['brillare'],[],[],['brillare'],2,0,0
+474,Conqueror,"La sua eleganza ne risaltava, ma accresceva anche il sospetto di un legame preciso tra il grosso ane","['eleganza', 'che', 'che']","['sospetto', 'peso']",[],[],"['risaltare', 'portare', 'sprigionare']",[],[],"['risaltare', 'portare', 'sprigionare']",3,2,0
+475,Conqueror,"Mi chiese se ero ammogliato e, quando gli ebbi risposto, parve soddisfatto: questo era un punto a su",['questo'],[],[],[],[],[],[],[],1,0,0
+476,Conqueror,"Nel tono della voce scoprii il rimpianto di quel matrimonio fatto in fretta, per ragioni che forse a",['che'],['rimpianto'],[],[],['dimenticare'],[],[],['dimenticare'],1,1,0
+477,Conqueror,"Bevve lui un lungo sorso, per infondersi un po ’ di coraggio, per infonderne a me, altrimenti non av",['lui'],"['sorso', 'poco']",[],[],['bere'],[],['bere'],[],1,2,0
+478,Conqueror,"Non avrebbe resistito alle ombre che la lampada creava negli angoli della stanza, e che avevo diment","['lampada', 'che']",['che'],[],[],"['creare', 'dimenticare']",[],['creare'],['dimenticare'],2,1,0
+479,Conqueror,Bisognava bere.,[],[],[],[],[],[],[],[],0,0,0
+480,Conqueror,"E il maggiore ne approfittava per gettarlesi addosso, ormai convinto che non l ’ avrei giudicato.",['maggiore'],['lo'],[],[],['approfittare'],[],[],['approfittare'],1,1,0
+481,Conqueror,"Nel buio improvviso sentii che tornava a tentoni verso il suo letto, cercando di ridere, cercando di",['che'],['suono'],[],[],['venire'],[],[],['venire'],1,1,0
+482,Conqueror,"Il mio sguardo dovette tradire lo sgomento, ma il soldato vi lesse l ’ improvvisa felicità per quell","['sguardo', 'soldato', 'che', 'che', 'costa']","['sgomento', 'felicità', 'tappa']",[],[],"['tradire', 'leggere', 'dare', 'significare']",[],"['tradire', 'leggere', 'significare']",['dare'],5,3,0
+483,Conqueror,Quello spostamento aveva riacceso le speranze dei più pessimisti e ora tutti si incoraggiavano con g,"['spostamento', 'tutto', 'che']",['speranza'],[],[],"['riaccidere', 'incoraggiare', 'rimbalzare']",[],['riaccidere'],"['incoraggiare', 'rimbalzare']",3,1,0
+484,Conqueror,Ogni soldato sapeva almeno i segreti di un altro ed era quella una magnifica occasione per accennarv,"['soldato', 'occasione']","['segreto', 'gioia']",[],[],['sapere'],[],['sapere'],[],2,2,0
+485,Conqueror,"Si sarebbero rivisti tutti, una volta in Italia, e l ’ amicizia nata sotto la tenda avrebbe tinto di","['tutto', 'amicizia']",['ricordo'],[],[],"['rivedere', 'tingere']",[],['tingere'],['rivedere'],2,1,0
+486,Conqueror,"E ognuno meditava un futuro ritardo, quando sarebbe stato il proprio turno.",['ognuno'],['ritardo'],[],[],['meditare'],[],['meditare'],[],1,1,0
+487,Conqueror,Il mio precedente infrangeva gloriosamente la regola.,['precedente'],['regola'],[],[],['infrangere'],[],['infrangere'],[],1,1,0
+488,Conqueror,Voleva significare che il capitano non faceva affidamento su di me e si rivolgeva anche al sergente ,['capitano'],"['affidamento', 'ordine']",[],[],['fare'],[],['fare'],[],1,2,0
+489,Conqueror,Il sergente si sarebbe fatto uccidere piuttosto che rinunciare a quella che lui considerava un ’ azi,"['sergente', 'lui', 'capitano']","['che', 'lo']",[],[],"['fare', 'considerare', 'onorare']",[],"['considerare', 'onorare']",['fare'],3,2,0
+490,Conqueror,"Avrei potuto dirgli: « Io non vengo »; sarebbe stato felice di comandare il plotone, avrebbe fatto m","['io', 'cosa']","['plotone', 'miracolo']",[],[],"['venire', 'risapotare']",[],[],"['venire', 'risapotare']",2,2,0
+491,Conqueror,"E i soldati tacquero a malincuore, perché il soldato protesta cantando e si solleva così di tutte le","['soldato', 'soldato']",[],[],[],"['tacquare', 'protestare']",[],[],"['tacquare', 'protestare']",2,0,0
+492,Conqueror,Il soldato al suo paese faceva il contrabbandiere e ora profittava di quest ’ occasione per giudicar,['soldato'],['contrabbandiere'],[],[],['fare'],[],['fare'],[],1,1,0
+493,Conqueror,"Più volte ripeté la frase e intanto mi sbirciava, aspettando un aiuto, la parola definitiva, oppure ","['frase', 'dovere']","['aiuto', 'mi']",[],[],['ripetere'],[],[],['ripetere'],2,2,0
+494,Conqueror,Era un curioso uomo il sergente: s ’ era modellato sul regolamento di disciplina e parlava ora citan,['sergente'],"['lettera', 'spirito']",['s'],[],[],['modellare'],[],[],1,3,1
+495,Conqueror,"Si concedeva pochi aggettivi, quelli approvati dalla stampa e dalla consuetudine militare",[],['aggettivo'],[],['stampa'],[],[],[],[],0,1,0
+496,Conqueror,"Il contrabbandiere, che avrebbe potuto superarmi e raggiungere il bimbo, mi seguiva invece indolente","['contrabbandiere', 'che']","['bimbo', 'lo']",[],[],"['seguire', 'superare']",[],[],"['superare', 'seguire']",2,2,0
+497,Conqueror,"Riviveva forse qualche avventura simile, nella quale a lui era toccata la parte peggiore, quella di ",['avventura'],"['fiato', 'lo']","['parte', 'che']",[],['rivivere'],"['toccare', 'pagare']",[],['rivivere'],1,4,2
+498,Conqueror,"Il contrabbandiere s ’ era messo discosto, seduto su un sasso, convinto che bisognava lasciare i mor",[],"['morto', 'morto']",['contrabbandiere'],[],[],['mettere'],[],[],0,3,1
+499,Conqueror,Non capiva perché restassi là a offendere con la mia presenza quel vecchio.,[],['vecchio'],[],[],[],[],[],[],0,1,0
+500,Conqueror,Mi giudicava certo uno sciocco o forse soltanto un ufficiale.,['sciocco'],[],[],[],['giudicare'],[],[],['giudicare'],1,0,0
+501,Conqueror,Il contrabbandiere non s ’ annoiava.,['contrabbandiere'],[],[],[],['annoiare'],[],[],['annoiare'],1,0,0
+502,Conqueror,"Stava arrotolandosi una sigaretta, ma non partecipava ai nostri discorsi, sapeva tutto, quella stori","['tutto', 'storia']",['sigaretta'],[],[],['sapere'],[],[],['sapere'],2,1,0
+503,Conqueror,"Non amava gli indigeni, ma non amava nemmeno chi li uccideva.",['chi'],"['indigeno', 'li']",[],[],['amare'],[],[],['amare'],1,2,0
+504,Conqueror,"Lui, costretto a girare sulle Alpi senza armi (se lo avessero preso con le armi sarebbe stata la fin",['lui'],"['lo', 'chi', 'opinione']",[],[],['imparare'],[],[],['imparare'],1,3,0
+505,Conqueror,"Quegli indigeni erano più vicini a lui che a me, perciò non si sentiva obbligato a nessuna commedia.",['indigeno'],[],[],[],[],[],[],[],1,0,0
+506,Conqueror,"I morti si guardano seppellire, inutile far domande al becchino.",['morto'],['domanda'],[],[],['guardare'],[],[],['guardare'],1,1,0
+507,Conqueror,Perché quelle esclamazioni da passante ?,[],[],[],[],[],[],[],[],0,0,0
+508,Conqueror,« Com ’ è successo ?,['Com'],[],[],[],['succedere'],[],[],['succedere'],1,0,0
+509,Conqueror,"Racconti, buon uomo !",[],[],[],[],[],[],[],[],0,0,0
+510,Conqueror,Mi dispiace ! »,[],[],[],[],[],[],[],[],0,0,0
+511,Conqueror,"Questo pensava il contrabbandiere, bastava vedere con quanta rabbia stava leccando la sua cartina.",['questo'],"['contrabbandiere', 'cartina']",[],[],['pensare'],[],['pensare'],[],1,2,0
+512,Conqueror,"Il contrabbandiere mi giudicava male, lo sentivo.",['contrabbandiere'],['lo'],[],[],['giudicare'],[],[],['giudicare'],1,1,0
+513,Conqueror,"Stavo limitandomi a un ’ accademia di pietà, non avrei mai imparato.",[],[],[],[],[],[],[],[],0,0,0
+514,Conqueror,"Lui con due strilli s ’ era messo dalla loro parte, tutto era stato detto tra quelle persone, non va",[],"['confusione', 'li']","['lui', 'tutto']",[],[],"['mettere', 'dire']",[],[],0,4,2
+515,Conqueror,"Il contrabbandiere non era spinto dalla vanità, non sapeva che farsene del « moretto ».",[],[],['contrabbandiere'],['vanità'],[],['spingere'],[],[],0,1,1
+516,Conqueror,"Era un uomo semplice, aveva cominciato a guadagnarsi la vita da bimbo anche lui, voleva insegnare al",[],"['vita', 'lui', 'vita']",[],[],[],[],[],[],0,3,0
+517,Conqueror,"Mangiava il suo pane e dormiva tra i sacchi di un magazzino, e nessuno gli diceva nulla, tanto si er",['nessuno'],"['pane', 'la']",[],[],['dire'],[],['dire'],[],1,2,0
+518,Conqueror,"Ma i soldati, per ingannare la noia, misero in quel lavoro una cura insolita, volevano farne addirit",['soldato'],"['noia', 'cura', 'strada', 'svolta', 'freccia', 'li', 'conforto']",[],[],['mettere'],[],['mettere'],[],1,7,0
+519,Conqueror,"Proveniva dalla forra e si avvicinava con aria d ’ intesa, voleva parlarmi, e doveva trattarsi di fa",[],[],[],[],[],[],[],[],0,0,0
+520,Conqueror,"Trasse di tasca una zolla di terra e me la porse, senza dir nulla, ma scrutandomi in viso, forse pre",[],"['zolla', 'la', 'nulla', 'sorpresa']",[],[],[],[],[],[],0,4,0
+521,Conqueror,"Nella sua ingenua immaginazione si vedeva già ricco, ma sapeva di formalità da superare prima di ess",[],['lo'],[],[],[],[],[],[],0,1,0
+522,Conqueror,"La sua delusione fu di breve durata, credette ch ’ io scherzassi, o persino che volessi truffarlo","['delusione', 'io']",['lo'],[],[],['scherzare'],[],[],['scherzare'],2,1,0
+523,Conqueror,L ’ oro era dello Stato.,['oro'],[],[],[],[],[],[],[],1,0,0
+524,Conqueror,"Era, invece, del soldato che l ’ aveva trovato.",['che'],['lo'],[],[],['trovare'],[],['trovare'],[],1,1,0
+525,Conqueror,Era di tutti.,[],[],[],[],[],[],[],[],0,0,0
+526,Conqueror,Era di una compagnia di sfruttamento che avremmo fondata quotandoci un tanto a testa.,['che'],['tanto'],[],[],['fondare'],[],['fondare'],[],1,1,0
+527,Conqueror,"E ora, avevo un segreto disegno, tentavo di distrarre l ’ attenzione altrui da quel tesoro, che inve",['che'],"['disegno', 'attenzione']",[],[],[],[],[],[],1,2,0
+528,Conqueror,Volevo precedere tutti nelle pratiche dello sfruttamento ?,[],['tutto'],[],[],[],[],[],[],0,1,0
+529,Conqueror,Il capitano però non rise; stimava certo inutile una risposta o di farmi soltanto capire che stavo e,['capitano'],['risposta'],[],[],['rise'],[],[],['rise'],1,1,0
+530,Conqueror,Perché non avevo chiesto addirittura il congedo ?,[],['congedo'],[],[],[],[],[],[],0,1,0
+531,Conqueror,"Aveva un volto giovanile, i soldati avrebbero ben presto profittato della sua arrendevolezza, accusa",['soldato'],"['volto', 'sorta']",[],[],['profittare'],[],[],['profittare'],1,2,0
+532,Conqueror,"Ma dovevo tornare al campo, seguitare quella sciocca commedia, perché tutti sapevano ormai che non s",['tutto'],"['commedia', 'speranza']",[],[],['sapere'],[],[],['sapere'],1,2,0
+533,Conqueror,"Mi aspettavano tutti, anche il generale, ch ’ era venuto attratto dalla voce che circolava già nei r","['tutto', 'generale', 'ch', 'che']",[],[],['voce'],"['aspettare', 'aspettare', 'venire', 'circolare']",[],[],"['aspettare', 'venire', 'circolare']",4,0,0
+534,Conqueror,"Il generale stava prendendo sul serio la faccenda, e forse voleva partecipare al trionfo della scope",['generale'],['faccenda'],[],[],['prendere'],[],['prendere'],[],1,1,0
+535,Conqueror,"Io avevo taciuto, appunto perché tutti cadessero nel tranello, io avevo scritto l ’ esposto, io avev","['io', 'tutto', 'io', 'io']","['esposto', 'generale', 'pagliuzza']",[],[],"['tacere', 'cadere', 'scrivere', 'consigliare']",[],"['scrivere', 'consigliare']","['tacere', 'cadere']",4,3,0
+536,Conqueror,non sapendo come svagarsi in attesa della notte che lo porterà ormai alla casa delle due ragazze.,['che'],['lo'],[],[],['portare'],[],['portare'],[],1,1,0
+537,Conqueror,"Era un uomo alto e grosso, felice di vivere, di stappare bottiglie e di aprire con un gesto largo la",[],"['bottiglia', 'scatola', 'mi', 'ottimismo']",[],[],[],[],[],[],0,4,0
+538,Conqueror,"Era convinto che l ’ ammirassi, ed era vero.",[],[],[],[],[],[],[],[],0,0,0
+539,Conqueror,"Odiava quella terra, odiava gli abitanti (eccetto Rahabat), odiava tutto.",[],"['terra', 'abitante', 'tutto']",[],[],[],[],[],[],0,3,0
+540,Conqueror,"O, meglio, disprezzava tutto.",[],['tutto'],[],[],[],[],[],[],0,1,0
+541,Conqueror,"Dovetti frenarmi per non raggiungerlo, per non raggiungere quell ’ uomo dal volto cordiale, anche se",['che'],"['lo', 'uomo']",[],['sottintesi'],['sfuggire'],[],[],['sfuggire'],1,2,0
+542,Conqueror,"Il sottotenente guardò le mani, anch ’ io le guardavo, e mi si volse, con un sorriso che voleva cert","['sottotenente', 'io', 'che', 'lebbra']","['mano', 'le', 'turbamento']",[],[],"['guardare', 'guardare', 'mascherare', 'dire']",[],"['guardare', 'guardare', 'mascherare']",['dire'],4,3,0
+543,Conqueror,"Due allegri soldati insegnavano a un bimbo ad andare in bicicletta, più per divertirsi loro che per ","['soldato', 'che']","['loro', 'qualcosa']",[],[],"['insegnare', 'insegnare']",[],['insegnare'],['insegnare'],2,2,0
+544,Conqueror,Ma il sottotenente tardava a rispondere come se la conversazione gli riuscisse estremamente penosa.,"['sottotenente', 'conversazione']",[],[],[],"['tardare', 'riuscire']",[],[],"['tardare', 'riuscire']",2,0,0
+545,Conqueror,"Evitava di guardarmi, o forse non poteva, perché eravamo seduti sullo stesso scalino e avrebbe dovut",[],"['mi', 'testa']",[],[],[],[],[],[],0,2,0
+546,Conqueror,"Si parlava in quei giorni di un nuovo trasferimento e, fugata l ’ apprensione di una lunga permanenz",['ora'],"['apprensione', 'gioia']",[],[],['passare'],[],[],['passare'],1,2,0
+547,Conqueror,Esse si presentavano così vivacemente alla loro immaginazione che dalle tende uscivano a tratti grid,"['esse', 'che', 'gridare']",[],[],[],"['presentare', 'uscire', 'uscire']",[],[],"['presentare', 'uscire']",3,0,0
+548,Conqueror,"Sorrise con aria d ’ intesa, forse pensava che volessi introdurci qualche donna, la notte, e tenerla",[],"['donna', 'la']",[],[],[],[],[],[],0,2,0
+549,Conqueror,"Eppure ogni tanto venivano indigeni davanti alla tenda del dottore, a farsi medicare, e l ’ infermie",['infermiere'],[],[],['saluto'],['medicare'],[],[],['medicare'],1,0,0
+550,Conqueror,"Non si mostrò affatto lieto di vedermi, né io mi aspettavo diversa accoglienza, lo conoscevo per fam","['io', 'che']","['accoglienza', 'lo', 'solitudine', 'la']",[],[],"['aspettare', 'amare']",[],"['aspettare', 'amare']",[],2,4,0
+551,Conqueror,"S ’ era messo lì, lontano da tutti, perché l ’ Africa gli aveva sviluppato un solo timore: quello di",['Africa'],['timore'],['S'],[],['sviluppare'],['mettere'],['sviluppare'],[],1,2,1
+552,Conqueror,"Sfidava ogni pericolo pur di alimentare la sua dolcissima noia, leggeva giornali vecchi di un mese, ",['tutto'],"['pericolo', 'noia', 'giornale', 'giorno']",[],[],[],[],[],[],1,4,0
+553,Conqueror,"La mia visita, invece, lo preoccupava.",['visita'],['lo'],[],[],['preoccupare'],[],['preoccupare'],[],1,1,0
+554,Conqueror,"Rispose che si stava bene, ripeteva le mie parole, annoiato di doverne cercare altre: e, se non trov",['conversazione'],"['parola', 'altro', 'argomento']",[],[],['cadere'],[],[],['cadere'],1,3,0
+555,Conqueror,"Non ottenendo risposta (si rifiutava, voleva ignorarmi e spingeva lo sguardo verso la strada, quasi ",[],"['risposta', 'sguardo', 'fuga', 'occhiata', 'uno']",[],[],[],[],[],[],0,5,0
+556,Conqueror,Su quel suo corpo mastodontico la piccola testa sembrava essersi illuminata.,['testa'],[],[],[],['sembrare'],[],[],['sembrare'],1,0,0
+557,Conqueror,Forse voleva scacciarmi.,[],[],[],[],[],[],[],[],0,0,0
+558,Conqueror,"Dietro le lenti gli vedevo gli occhi già socchiusi per la noia di quello sforzo, una leggera smorfia",['smorfia'],"['occhio', 'bocca']",[],[],['dilatare'],[],['dilatare'],[],1,2,0
+559,Conqueror,"Non chiedeva niente all ’ Africa, se non di essere lasciato in pace.",[],['niente'],[],[],[],[],[],[],0,1,0
+560,Conqueror,Forse voleva soltanto esercitare una critica verista.,[],['critica'],[],[],[],[],[],[],0,1,0
+561,Conqueror,"E intanto il dottore si lisciava i baffi, sereno; poi, con voce improvvisamente grave, disse che « l","['dottore', 'che', 'ingegnere']","['baffo', 'parola', 'lo']",[],[],"['lisciare', 'dominare', 'morire']",[],"['lisciare', 'dominare']",['morire'],3,3,0
+562,Conqueror,"Si mise a sfogliare il libretto, ma non trovava il paragrafo che voleva citare, o forse fingeva di n",['che'],"['libretto', 'paragrafo', 'lo']",[],[],['citare'],[],[],['citare'],1,3,0
+563,Conqueror,"Non si decideva a proseguire, come afferrato da un improvviso pensiero.",[],[],[],['pensiero'],[],[],[],[],0,0,0
+564,Conqueror,"Solo per un istante i suoi occhi di gatto appisolato mi guardarono, fuggiaschi, quasi temessero di s",['occhio'],[],[],[],['guardare'],[],[],['guardare'],1,0,0
+565,Conqueror,"Anzi, dopo un istante avrei giurato che non aveva visto la benda, s ’ era solo incuriosito a guardar",['che'],"['benda', 'scorpione', 'sentiero']",[],[],['attraversare'],[],['attraversare'],[],1,3,0
+566,Conqueror,"Pensavo al sottotenente, che anche lui « sapeva ».",['lui'],[],[],[],['sapere'],[],[],['sapere'],1,0,0
+567,Conqueror,"Voleva stare al mio giuoco, ma nei suoi occhi vidi improvvisa la pietà per il male che già mi sconvo",['che'],['pietà'],[],[],['sconvolgere'],[],[],['sconvolgere'],1,1,0
+568,Conqueror,"La sua corpulenza, coronata da una testa infantile e biondiccia, mi faceva persino credere che tutto","['corpulenza', 'tutto']",[],[],['testa'],"['fare', 'risolvere']",[],[],"['fare', 'risolvere']",2,0,0
+569,Conqueror,"Anch ’ egli pensava la stessa cosa, immagino, ma non sapeva venir meno al suo dovere.",['egli'],['cosa'],[],[],['pensare'],[],['pensare'],[],1,1,0
+570,Conqueror,"Ripresi a parlare, volevo sempre più mostrargli che non ero emozionato, ma egli ora sfuggiva il mio ",['egli'],['sguardo'],[],[],['sfuggire'],[],['sfuggire'],[],1,1,0
+571,Conqueror,Un invito ad accettare il mio male e a desistere da una lotta senza speranze.,[],['male'],[],[],[],[],[],[],0,1,0
+572,Conqueror,"Il dottore ripeté l ’ invito, a voce più bassa, voleva apparire indifferente.",['dottore'],['invito'],[],[],['ripetere'],[],['ripetere'],[],1,1,0
+573,Conqueror,Cercava di mettere allegria nei suoi modi e quella mal recitata commedia adesso mi indignava.,['commedia'],['allegria'],[],[],['indignare'],[],[],['indignare'],1,1,0
+574,Conqueror,"Ecco, la sua insolente pigrizia stava cedendo, e ora si comportava come un fratello, ma purtroppo co",['pigrizia'],[],[],[],['cedere'],[],[],['cedere'],1,0,0
+575,Conqueror,"M ’ invitava a cena, sapendo che dopo avrebbe dovuto distruggere posate, bicchieri, stoviglie, per t",['M'],"['posata', 'mi', 'qualcuno']",[],[],['invitare'],[],[],['invitare'],1,3,0
+576,Conqueror,"Sapeva di recitare la parte ingrata e me ne chiedeva scusa, non immaginando che io ero già pronto a ",['io'],"['parte', 'scusa']",[],[],[],[],[],[],1,2,0
+577,Conqueror,"Forse pensava ch ’ ero là vicino, e sembrava impaziente.",[],[],[],[],[],[],[],[],0,0,0
+578,Conqueror,"Là era il dottore; nel suo boschetto di eucalyptus, addormentato nella branda, i giornali sparsi a t",[],[],[],[],[],[],[],[],0,0,0
+579,Conqueror,"Forse aveva la rivoltella sotto il cuscino, e forse vegliava pensando a me.",[],['rivoltella'],[],[],[],[],[],[],0,1,0
+580,Conqueror,"Pensava a me, senz ’ altro",[],[],[],[],[],[],[],[],0,0,0
+581,Conqueror,"Con pietà, ma anche indignandosi per il mio tentativo di ucciderlo.",[],['lo'],[],[],[],[],[],[],0,1,0
+582,Conqueror,"Quasi chiamato da quel suono, entrò un uomo seminudo e mi chiese che cosa volevo.",['uomo'],['cosa'],[],['suono'],['entrare'],[],[],['entrare'],1,1,0
+583,Conqueror,"Era certo un uomo delle macchine, aveva ancora tracce di olio sulle tempie e l ’ aria stanca e sonno",[],['traccia'],[],[],[],[],[],[],0,1,0
+584,Conqueror,Appunto perché ero ufficiale voleva umiliarmi.,[],[],[],[],[],[],[],[],0,0,0
+585,Conqueror,"Il comando tappa era aperto, un soldato in calzoncini corti s ’ era steso a gambe larghe sotto il ve","['comando', 'che', 'che']","['piroscafo', 'lo', 'lo', 'caldo', 'riverbero']",['soldato'],[],"['dare', 'aggiungere']",['stendere'],"['dare', 'aggiungere']",[],3,6,1
+586,Conqueror,"Un carabiniere era anche lui seduto sulla porta, all ’ ombra, e guardava il piroscafo.",['lui'],['piroscafo'],['carabiniere'],[],['sedere'],['sedere'],[],[],1,2,1
+587,Conqueror,"Un altro carabiniere in calzoncini era là in fondo, appoggiato a un arco e si faceva aria con un ven",['carabiniere'],['aria'],[],[],[],[],[],[],1,1,0
+588,Conqueror,"Certo, un altro carabiniere stava aspettandomi nel quadrato degli ufficiali, leggendo il giornale, c",['carabiniere'],"['giornale', 'orologio']",[],[],['aspettare'],[],[],['aspettare'],1,2,0
+589,Conqueror,L ’ infermiere sapeva il mio nome.,['infermiere'],['nome'],[],[],['sapere'],[],['sapere'],[],1,1,0
+590,Conqueror,"Lo sapevano tutti, il mio nome.","['tutto', 'nome']",['lo'],[],[],"['sapere', 'sapere']",[],['sapere'],[],2,1,0
+591,Conqueror,"Resta la mano fasciata, il colore dei capelli, e altri particolari che il dottore deve aver notato, ","['mano', 'dottore']",['che'],[],[],"['restare', 'notare']",[],['notare'],['restare'],2,1,0
+592,Conqueror,"Cercava forse una casa dove trascorrere il pomeriggio, prima di rituffarsi in quella pentola: ma qua",[],"['casa', 'pomeriggio', 'lo']",[],[],[],[],[],[],0,3,0
+593,Conqueror,"Entrammo in una casa, il fuochista aveva certamente fretta di restare solo con la donna",['fuochista'],['fretta'],[],[],['avere'],[],['avere'],[],1,1,0
+594,Conqueror,"Lo ascoltavo e rammentai il soldato che avevo lasciato solo sul suo autocarro capovolto, alla prima ","['soldato', 'che', 'fuochista', 'io']",['lo'],[],[],"['rammentare', 'lasciare', 'parlare', 'parlare']",[],[],"['rammentare', 'lasciare', 'parlare', 'parlare']",4,1,0
+595,Conqueror,"Doveva sentirsi ferito nel suo orgoglio, oppure fingeva; anzi quei due si stavano strizzando l ’ occ",['due'],"['occhio', 'risa']",[],[],['strizzare'],[],['strizzare'],[],1,2,0
+596,Conqueror,"Decisi che potevo fidarmi, era proprio il tipo che vive di rischi: una larga faccia segnata da rughe","['che', 'che']",['sguardo'],[],['ruga'],"['vivere', 'saettare']",[],[],"['vivere', 'saettare']",2,1,0
+597,Conqueror,"Aveva in testa un berretto bianco con la visiera e l ’ ancora, uno di quei berretti che a Napoli por","['che', 'che']","['berretto', 'venditore', 'lo', 'ragazzo']",[],[],"['portare', 'fare']",[],"['portare', 'fare']",[],2,4,0
+598,Conqueror,"Non supponeva quali nuove speranze, quale nuova fiducia mi stava dando il suo berretto.",['fiducia'],"['speranza', 'berretto']",[],[],['dare'],[],['dare'],[],1,2,0
+599,Conqueror,"Uscì dal paravento, seminudo, aveva un asciugamano attorno al ventre e con un altro asciugamano si s",['petto'],['asciugamano'],[],[],['strofinare'],[],[],['strofinare'],1,1,0
+600,Conqueror,"Era di un color pallido, aveva petto femminile e gambe gracili e sempre più il suo volto esprimeva u","['volto', 'che']","['petto', 'mistero']",[],[],"['esprimere', 'risolvere']",[],['esprimere'],['risolvere'],2,2,0
+601,Conqueror,"Il suo ventre, non più trattenuto, prorompeva solenne.",['ventre'],[],[],[],['proromperare'],[],[],['proromperare'],1,0,0
+602,Conqueror,Dovevo essergli simpatico.,[],[],[],[],[],[],[],[],0,0,0
+603,Conqueror,"Ero, ai suoi occhi, uno di quegli ufficiali di cui si favoleggia in ogni reggimento, incapaci di far","['che', 'c']","['cosa', 'polveriera']",[],[],['addormentare'],[],[],['addormentare'],2,2,0
+604,Conqueror,Ed era troppo soddisfatto di sé per non trovarmi simpatico.,[],[],[],[],[],[],[],[],0,0,0
+605,Conqueror,"Si sentiva molto giovane, amato e soprattutto per la sua nuova, inaspettata giovinezza che io gli av",['io'],['che'],[],[],['rivelare'],[],['rivelare'],[],1,1,0
+606,Conqueror,"Avevo sorpreso un lato nuovo, scapigliato della sua esistenza e di ciò doveva sentirsi felice.",[],['lato'],[],[],[],[],[],[],0,1,0
+607,Conqueror,"Deposta ormai la gravità del suo grado, che l ’ aveva spinto a consigliarmi di radermi, quella prima","['che', 'c']","['lo', 'complicità']",['gravità'],[],"['spingere', 'incontrare']",['depostare'],['spingere'],['incontrare'],2,3,1
+608,Conqueror,"Poteva, sì, trattarmi come un ragazzo, con la degnazione protettrice che gli uomini molto pratici e ","['uomo', 'che']","['giovane', 'lo']",['s'],[],"['porre', 'essere']",['liberare'],['essere'],['porre'],2,3,1
+609,Conqueror,"Mi batteva la mano sulla spalla con un gesto cordiale, scusandomi se non ero come lui, se non avevo ",[],"['mano', 'fortune', 'valore']",[],[],[],[],[],[],0,3,0
+610,Conqueror,"Perciò mi trattava come un ragazzo che deve molto imparare dalla vita, un ragazzo che insegue gli ot","['che', 'che', 'popolo']","['ottimismo', 'indigeno', 'virtù', 'che']",[],[],"['imparare', 'inseguire', 'perdere']",[],"['inseguire', 'perdere']",['imparare'],3,4,0
+611,Conqueror,"Avevo molto da imparare da lui, di questo eravamo convinti tutti e due.",['tutto'],[],[],[],['convincere'],[],[],['convincere'],1,0,0
+612,Conqueror,"Sì, dovevo essergli simpatico.",[],[],[],[],[],[],[],[],0,0,0
+613,Conqueror,"Mi accorgevo che a volte la sua sicura eleganza si scomponeva in modi più familiari, perdendo ogni v",['eleganza'],['volgarità'],[],[],['scomporre'],[],[],['scomporre'],1,1,0
+614,Conqueror,"Ma in quegli istanti invecchiava e di qui il suo sorriso perenne, il furbo ammiccare degli occhi.",[],[],[],[],[],[],[],[],0,0,0
+615,Conqueror,Lottava contro la sua decadenza.,[],[],[],[],[],[],[],[],0,0,0
+616,Conqueror,Guardava il porto diversamente da me.,[],['porto'],[],[],[],[],[],[],0,1,0
+617,Conqueror,"Io lo vedevo come la stazione della mia fuga, lui come una baracca più grande.",['io'],['lo'],[],[],['vedere'],[],['vedere'],[],1,1,0
+618,Conqueror,Non era nemmeno furto.,[],[],[],[],[],[],[],[],0,0,0
+619,Conqueror,"Al ritorno, il maggiore seguiterebbe a usare la sua seconda giovinezza, aiutandosi con i guadagni ch","['maggiore', 'che']",['giovinezza'],[],[],"['seguitare', 'accumulare']",[],[],"['seguitare', 'accumulare']",2,1,0
+620,Conqueror,La moglie sarebbe rimasta nel portaritratti.,['moglie'],[],[],[],['rimanere'],[],[],['rimanere'],1,0,0
+621,Conqueror,"Era il suo posto, ormai, e non sembrava scontenta di starci.",[],[],[],[],[],[],[],[],0,0,0
+622,Conqueror,dal suo volto che improvvisamente cedeva alla stanchezza del giuoco che s ’ era imposto.,['che'],[],"['che', 's']",[],['cedere'],"['imporre', 'imporre']",[],['cedere'],1,2,2
+623,Conqueror,"Li spiegazzava, porgendomeli, quasi per sentirne l ’ amato fruscio sino all ’ ultimo.",[],"['li', 'li', 'fruscio']",[],[],[],[],[],[],0,3,0
+624,Conqueror,"Capii che la mia richiesta l ’ avrebbe sorpreso, forse indignato o addirittura messo in sospetto",['richiesta'],['lo'],[],[],['sorprendere'],[],['sorprendere'],[],1,1,0
+625,Conqueror,"Rassicurato da queste parole, il maggiore insisté che prendessi il denaro, voleva mettermelo in tasc","['insisté', 'io']",['denaro'],[],['parola'],"['mettere', 'ripetere']",[],[],"['mettere', 'ripetere']",2,1,0
+626,Conqueror,"Lo rividi passeggiare su e giù davanti alla casa delle due ragazze, col suo vecchio sussiego che mas",['che'],"['lo', 'libidina']",[],[],['mascherare'],[],['mascherare'],[],1,2,0
+627,Conqueror,"Era veramente sincero quando, battendomi una mano sulla spalla, per salutarmi, disse: « Per qualunqu",[],"['mano', 'mi']",[],[],[],[],[],[],0,2,0
+628,Conqueror,"Mentre ripeteva questa profferta, spalancava gli occhi generosamente e tutto il suo viso rossiccio, ",['viso'],"['profferta', 'occhio']",[],[],['illuminare'],[],[],['illuminare'],1,2,0
+629,Conqueror,Il maggiore sorrise: ero incorreggibile.,['maggiore'],[],[],[],['sorridere'],[],[],['sorridere'],1,0,0
+630,Conqueror,Il maggiore non aveva neanche celato di quale natura fossero i sentimenti che nutriva verso la mogli,"['maggiore', 'che']",['la'],[],[],"['celare', 'nutrire']",[],[],"['celare', 'nutrire']",2,1,0
+631,Conqueror,La nuova fortuna accumulata gli faceva certo sembrare la donna del portaritratti un ostacolo al suo ,['fortuna'],"['donna', 'ostacolo']",[],[],['fare'],[],[],['fare'],1,2,0
+632,Conqueror,"che, a parte la sua tardiva vanità, era un brav ’ uomo e aveva preso a benvolermi, stimandomi inadat","['che', 'vanità']",['mi'],[],[],[],[],[],[],2,1,0
+633,Conqueror,"Adesso, il maggiore, che mi stima un giovane ancora salvabile, degno di fiducia e che sente in ogni ","['che', 'che']","['giovane', 'ammirazione']",[],[],"['stimare', 'sentire']",[],"['stimare', 'sentire']",[],2,2,0
+634,Conqueror,"(forse il suo modo di camminare, il gesto di accomodarsi il cinturone, la sua aria imbronciata che m",['che'],"['cinturone', 'libidina']",[],[],['mascherare'],[],['mascherare'],[],1,2,0
+635,Conqueror,"Quando gli dissi di fermare, frenò di colpo e parve soddisfatto di come funzionavano i freni.",['freno'],[],[],[],['funzionare'],[],[],['funzionare'],1,0,0
+636,Conqueror,"Sì, sospettava qualcosa.",['qualcosa'],[],[],[],['sospettare'],[],[],['sospettare'],1,0,0
+637,Conqueror,"E mi fissò calmo, aspettando che aprissi lo zaino e gli consegnassi il denaro.",[],"['zaino', 'denaro']",[],[],[],[],[],[],0,2,0
+638,Conqueror,"Queste parole mi dicevano che sapeva, e soltanto per incredulità non vi aveva accennato prima.",['parola'],[],[],[],['dire'],[],[],['dire'],1,0,0
+639,Conqueror,Ma adesso aveva le prove,[],['prova'],[],[],[],[],[],[],0,1,0
+640,Conqueror,"Poi rapido mi venne incontro, credetti che volesse picchiarmi, sembrava anzi deciso a farla finita, ",['farabutto'],"['mi', 'la']",[],[],['urlare'],[],[],['urlare'],1,2,0
+641,Conqueror,"Correva, il camion, il maggiore si fidava dei freni e i freni, infatti, funzionavano.","['camion', 'freno']",[],[],[],"['fidare', 'funzionare']",[],[],"['fidare', 'funzionare']",2,0,0
+642,Conqueror,"Ma non avrebbe funzionato la ruota e la denuncia sarebbe rimasta tra i suoi pensieri, tra gli ultimi","['denuncia', 'verme']",['ruota'],[],[],"['rimanere', 'mangiare']",[],[],"['rimanere', 'mangiare']",2,1,0
+643,Conqueror,"“ L ’ ingegnere e l ’ indigena, caro dottore, si uccidono scambievolmente e ciascuno col mezzo di cu",['ingegnere'],[],[],[],['uccidere'],[],[],['uccidere'],1,0,0
+644,Conqueror,L ’ ingegnere uccide da uomo pratico che non ha tempo per verificare un fenomeno già sufficientement,"['ingegnere', 'che']","['tempo', 'fenomeno', 'conseguenza', 'atto']",[],[],"['uccidere', 'avere']",[],['avere'],['uccidere'],2,4,0
+645,Conqueror,"L ’ indigena uccide come uccide la sua terra, con tutto il tempo, del quale ha un concetto così sbag",['indigeno'],"['terra', 'concetto']",[],[],['uccidere'],[],[],['uccidere'],1,2,0
+646,Conqueror,"Avanzavano placidamente, già stanchi, parlando un dialetto che non conoscevo.",['che'],['dialetto'],[],[],['conoscere'],[],[],['conoscere'],1,1,0
+647,Conqueror,Uno dei soldati aveva il fucile tra le mani e cercava con gli occhi un bersaglio che valesse la cart,"['uno', 'che', 'altro']","['fucile', 'bersaglio', 'cartuccia', 'lo', 'sudore']",[],[],"['avere', 'valere', 'precedere']",[],"['avere', 'valere', 'precedere']",[],3,5,0
+648,Conqueror,"Quando furono più vicini, vidi che erano carabinieri e avevano sparato per ingannare il silenzio di ",[],['silenzio'],[],[],[],[],[],[],0,1,0
+649,Conqueror,Per fortuna non mi distrassi troppo e potei così vedere in tempo i due carabinieri che tornavano di ,['che'],"['carabiniere', 'sentiero']",[],[],['tornare'],[],['tornare'],[],1,2,0
+650,Conqueror,"Tra un mese o due, il maggiore avrebbe persino dimenticato la mia esistenza, mentre ora il suo desid","['maggiore', 'desiderio']","['esistenza', 'trappola']",[],[],"['dimenticare', 'fare']",[],"['dimenticare', 'fare']",[],2,2,0
+651,Conqueror,Supponeva davvero che non avrei osato traversare il fiume ?,[],['fiume'],[],[],[],[],[],[],0,1,0
+652,Conqueror,Supponeva che sarei rimasto tra le montagne ?,[],[],[],[],[],[],[],[],0,0,0
+653,Conqueror,L ’ avevano forse abbandonato su altri sentieri e il soldato non era stato capace di sparargli nell ,"['L', 'soldato']","['orecchio', 'zoccolo', 'morte']",[],[],['abbandonare'],[],[],['abbandonare'],2,3,0
+654,Conqueror,"I carabinieri avrebbero esitato prima di chiedermi le carte, dicendo: « Non può essere lui »",['carabiniere'],['carta'],[],[],['esitare'],[],[],['esitare'],1,1,0
+655,Conqueror,Perché la barba richiede quelle cure quotidiane e quella mancanza di immaginazione che un fuggiasco ,"['barba', 'fuggiasco']","['cura', 'che']",[],[],"['richiedere', 'possedere']",[],"['richiedere', 'possedere']",[],2,2,0
+656,Conqueror,Avrei scommesso il denaro che avevo in tasca (anche il denaro rubato) che per fedeltà al suo timido ,"['che', 'che']","['denaro', 'qualcuno']",[],[],"['avere', 'rammentare']",[],['rammentare'],['avere'],2,2,0
+657,Conqueror,"Oppure, temevo una parafrasi suggeritagli dal suo umore giovanile e imprudente.",['parafrasi'],[],[],['umore'],['temere'],[],[],['temere'],1,0,0
+658,Conqueror,"O qualcosa sul Paradiso che si conquista, a volte, con le pessime azioni.",['che'],[],[],[],['conquista'],[],[],['conquista'],1,0,0
+659,Conqueror,"O la rinunzia a cavare una morale da fatti che obbediscono al caso, e quindi, la rinuncia a cercare ",['che'],"['la', 'morale', 'morale']",[],[],['obbedire'],[],[],['obbedire'],1,3,0
+660,Conqueror,Forse pensava.,[],[],[],[],[],[],[],[],0,0,0
+661,Conqueror,O trovava la mia storia poco convincente e rimpiangeva le ore rubate al sonno,[],"['storia', 'ora']",[],[],[],[],[],[],0,2,0
+662,Conqueror,A meno che non ascoltasse le voci dei soldati che ancora cantavano di gioia per quell ’ ultima notte,['che'],['voce'],[],[],['cantare'],[],[],['cantare'],1,1,0
+663,Conqueror,"I soldati non smettevano di cantare, aspettavano l ’ alba, per convincersi che non v ’ erano contror",['soldato'],['alba'],[],[],['smettere'],[],[],['smettere'],1,1,0
+664,Conqueror,Ancora quattro giorni e poi il fremere delle macchine del piroscafo li avrebbe rassicurati del tutto,['fremere'],['li'],[],[],['rassicurare'],[],['rassicurare'],[],1,1,0
+665,Conqueror,Non avrebbero trovato nemmeno la forza di salutare la folla della banchina.,[],"['forza', 'folla']",[],[],[],[],[],[],0,2,0
+666,Conqueror,"Quel misantropo voleva invitarmi ad accettare la mia condizione di « intoccabile », ma non impormi q",['misantropo'],"['condizione', 'quello']",[],[],['invitare'],[],[],['invitare'],1,2,0
+667,Conqueror,"Forse pensava che era già sufficiente la condanna scritta sulla mia mano (fasciata con troppa cura),",['condanna'],['altro'],[],[],[],[],[],[],1,1,0
+668,Conqueror,(Pensavo che il sottotenente aveva un ’ inguaribile tendenza alle complicazioni.),['sottotenente'],['tendenza'],[],[],['avere'],[],['avere'],[],1,1,0
+669,Conqueror,"« Ebbene, » continuò « gli operai del cantiere, sempre in cerca di un pretesto per divertirsi, fecer","['operaio', 'donna']",[],[],[],['fare'],[],[],['fare'],2,0,0
+670,Conqueror,"E, il giorno dopo, disgraziatamente, passarono gli zaptié, più preoccupati di offrire un esempio, ch",['zaptié'],"['esempio', 'inchiesta']",[],[],['passare'],[],[],['passare'],1,2,0
+671,Conqueror,"(In verità, pensavo che il sottotenente aveva non solo la tendenza ma il vizio delle complicazioni.)",['sottotenente'],['tendenza'],[],[],['avere'],[],['avere'],[],1,1,0
+672,Conqueror,"Forse il telefono era guasto e, strada facendo, il maggiore avrà considerato con prudenza la sua sit","['telefono', 'strada', 'maggiore']",['situazione'],[],[],"['fare', 'considerare']",[],['considerare'],['fare'],3,1,0
+673,Conqueror,"Se passò il ponte senza telefonare (escludiamo che il telefono fosse guasto, perché la linea è doppi","['ponte', 'telefono', 'linea']",['altopiano'],[],[],['passare'],[],[],['passare'],3,1,0
+674,Conqueror,"Ossia, dobbiamo supporre che non voleva denunciarti.",[],[],[],[],[],[],[],[],0,0,0
+675,Conqueror,"E questa decisione non la prese strada facendo; la prese, invece, risalendo sul camion dopo la discu","['decisione', 'che']","['la', 'strada', 'la']",[],[],"['prendere', 'avere']",[],['prendere'],['avere'],2,3,0
+676,Conqueror,"Dunque, rinunciò sin dal primo momento alla denuncia.",[],[],[],[],[],[],[],[],0,0,0
+677,Conqueror,Non dando peso alle chiacchiere di Mariam egli s ’ era già rassegnato all ’ idea del furto.,['egli'],['peso'],[],[],['rassegnare'],[],[],['rassegnare'],1,1,0
+678,Conqueror,Inconsciamente rassegnato. »,[],[],[],[],[],[],[],[],0,0,0
+679,Conqueror,O forse perché accettò il tuo consiglio di rifarsi del denaro con un altro viaggio.,[],['consiglio'],[],[],[],[],[],[],0,1,0
+680,Conqueror,Il maggiore non può avere provato paura. »,['maggiore'],['paura'],[],[],['provare'],[],['provare'],[],1,1,0
+681,Conqueror,"Soltanto quando ebbe ripetuto più volte la frase, sorpreso anche lui che non accettassi la fine tocc",['che'],"['frase', 'fine']",['lui'],[],['accettare'],['sorprendere'],['accettare'],[],1,3,1
+682,Conqueror,"Stava divertendosi, esaurendo le ultime battute, per concludere senza rimorsi quella lunga notte, l ",[],"['battuta', 'notte']",[],[],[],[],[],[],0,2,0
+683,Conqueror,Voleva che tutti sentissero la sveglia del giorno che aveva atteso per due anni.,"['tutto', 'che']",['sveglia'],[],[],"['sentire', 'attendere']",[],['sentire'],['attendere'],2,1,0

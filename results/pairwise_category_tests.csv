@@ -1,0 +1,4 @@
+comparison,chi2,p_value,significant
+Description vs Conqueror,246.3140480446367,8.026857389724351e-46,True
+Description vs Indigenous,415.9671020449619,1.5680905236066473e-81,True
+Conqueror vs Indigenous,31.147683944789755,0.0032079255214242292,True

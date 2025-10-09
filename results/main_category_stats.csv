@@ -1,0 +1,7 @@
+main_category,Num_Annotations,Total_Words,Avg_Words_per_Segment,Percent_Annotations,Percent_Words
+UNLABELLED,4831,63841,13.21,83.39,77.76
+Indigenous,367,7435,20.26,6.34,9.06
+Description,233,5092,21.85,4.02,6.2
+Conqueror,224,4099,18.3,3.87,4.99
+Narrator,100,1563,15.63,1.73,1.9
+Metadata,38,71,1.87,0.66,0.09
