@@ -1,3 +1,0 @@
-category,total_segments,mean_sentiment,median_sentiment,std_sentiment,mean_confidence,positive_pct,neutral_pct,negative_pct,high_confidence_count
-Indigenous,427,-0.5735367526773547,-0.9997079968452454,0.8080901658565788,0.9886135338899402,0,0,0,420
-Conqueror,257,-0.5959551770399517,-0.9997419714927673,0.7952461641264685,0.9914057862433941,0,0,0,253
