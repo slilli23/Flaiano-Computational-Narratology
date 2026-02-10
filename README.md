@@ -1,5 +1,5 @@
 # Flaiano-Computational-Narratology
-Code and Data for the paper about Ennio Flaiano's "Tempo di uccidere" proposed for Computational Humanities Research's special issue on Computational Narratology.
+Code and Data for the paper by Silvia Lilli & Daniel Raffini, "Decoding the Conqueror's Gaze. A Computational Approach to Ennio Flaiano's (Post)Colonialism", *Computational Humanities Research*, accepted for publication.
 
 **Abstract**
 
